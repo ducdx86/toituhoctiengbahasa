@@ -1,0 +1,6 @@
+{
+  "levels": [
+    { "id": "bipa1", "file": "bipa1.json" },
+    { "id": "bipa2", "file": "bipa2.json" }
+  ]
+}

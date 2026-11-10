@@ -1,0 +1,6843 @@
+{
+ "id": "bipa1",
+ "title": "BIPA 1",
+ "subtitle": "Sahabatku Indonesia untuk Pelajar",
+ "cefr": "A1",
+ "source": "Badan Pengembangan dan Pembinaan Bahasa, Kemendikbud, 2019",
+ "units": [
+  {
+   "id": "u01",
+   "num": 1,
+   "title": "Salam",
+   "vi_title": "Chào hỏi",
+   "goals": [
+    "Hiểu và dùng các câu chào hỏi người khác",
+    "Hỏi thăm sức khỏe, xin lỗi và chào tạm biệt",
+    "Dùng câu đơn giản và từ hỏi apa (gì)"
+   ],
+   "vocab": [
+    {
+     "id": "u01-v01",
+     "idn": "selamat pagi",
+     "vi": "chào buổi sáng",
+     "note": "dùng buổi sáng"
+    },
+    {
+     "id": "u01-v02",
+     "idn": "selamat siang",
+     "vi": "chào buổi trưa / đầu giờ chiều"
+    },
+    {
+     "id": "u01-v03",
+     "idn": "selamat sore",
+     "vi": "chào buổi chiều"
+    },
+    {
+     "id": "u01-v04",
+     "idn": "selamat malam",
+     "vi": "chào buổi tối"
+    },
+    {
+     "id": "u01-v05",
+     "idn": "hai",
+     "vi": "chào (thân mật)",
+     "note": "dùng với bạn bè"
+    },
+    {
+     "id": "u01-v06",
+     "idn": "apa kabar?",
+     "vi": "bạn khỏe không? / dạo này thế nào?"
+    },
+    {
+     "id": "u01-v07",
+     "idn": "baik",
+     "vi": "tốt, khỏe",
+     "note": "đáp lại apa kabar"
+    },
+    {
+     "id": "u01-v08",
+     "idn": "maaf",
+     "vi": "xin lỗi"
+    },
+    {
+     "id": "u01-v09",
+     "idn": "tidak apa-apa",
+     "vi": "không sao đâu",
+     "note": "đáp lại maaf"
+    },
+    {
+     "id": "u01-v10",
+     "idn": "sampai jumpa",
+     "vi": "hẹn gặp lại"
+    },
+    {
+     "id": "u01-v11",
+     "idn": "permisi",
+     "vi": "xin phép, xin lỗi cho tôi qua"
+    },
+    {
+     "id": "u01-v12",
+     "idn": "pergi",
+     "vi": "đi"
+    },
+    {
+     "id": "u01-v13",
+     "idn": "dulu",
+     "vi": "trước (đi trước, làm trước)"
+    },
+    {
+     "id": "u01-v14",
+     "idn": "ya",
+     "vi": "vâng; nhé (cuối câu)"
+    },
+    {
+     "id": "u01-v15",
+     "idn": "Pak",
+     "vi": "ông, bác, chú, thầy",
+     "note": "nam lớn tuổi hơn"
+    },
+    {
+     "id": "u01-v16",
+     "idn": "Bu",
+     "vi": "bà, cô, bác gái, cô giáo",
+     "note": "nữ lớn tuổi hơn"
+    },
+    {
+     "id": "u01-v17",
+     "idn": "aku",
+     "vi": "tôi, mình",
+     "note": "thân mật"
+    },
+    {
+     "id": "u01-v18",
+     "idn": "saya",
+     "vi": "tôi",
+     "note": "trang trọng"
+    },
+    {
+     "id": "u01-v19",
+     "idn": "kamu",
+     "vi": "bạn, cậu",
+     "note": "thân mật"
+    },
+    {
+     "id": "u01-v20",
+     "idn": "apa",
+     "vi": "gì, cái gì"
+    },
+    {
+     "id": "u01-v21",
+     "idn": "sedang",
+     "vi": "đang"
+    },
+    {
+     "id": "u01-v22",
+     "idn": "makan",
+     "vi": "ăn"
+    },
+    {
+     "id": "u01-v23",
+     "idn": "tidur",
+     "vi": "ngủ"
+    },
+    {
+     "id": "u01-v24",
+     "idn": "mandi",
+     "vi": "tắm"
+    },
+    {
+     "id": "u01-v25",
+     "idn": "belajar",
+     "vi": "học"
+    },
+    {
+     "id": "u01-v26",
+     "idn": "soto",
+     "vi": "soto (món súp truyền thống)"
+    },
+    {
+     "id": "u01-v27",
+     "idn": "mencuci baju",
+     "vi": "giặt quần áo"
+    },
+    {
+     "id": "u01-v28",
+     "idn": "menulis surat",
+     "vi": "viết thư"
+    },
+    {
+     "id": "u01-v29",
+     "idn": "bermain bola",
+     "vi": "chơi bóng"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 1.1 — Chào buổi sáng",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Andi",
+       "idn": "Selamat pagi, Dinda.",
+       "vi": "Chào buổi sáng, Dinda."
+      },
+      {
+       "who": "Dinda",
+       "idn": "Pagi, Andi.",
+       "vi": "Chào buổi sáng, Andi."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/671BIPA_1_UMUM_AUDIO_1.1.mp3"
+    },
+    {
+     "title": "Audio 1.2 — Hỏi thăm",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Niken",
+       "idn": "Hai, Raden.",
+       "vi": "Chào Raden."
+      },
+      {
+       "who": "Raden",
+       "idn": "Hai, Niken.",
+       "vi": "Chào Niken."
+      },
+      {
+       "who": "Niken",
+       "idn": "Apa kabar?",
+       "vi": "Bạn khỏe không?"
+      },
+      {
+       "who": "Raden",
+       "idn": "Baik.",
+       "vi": "Khỏe."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/274BIPA_1_UMUM_AUDIO_1.2.mp3"
+    },
+    {
+     "title": "Dialog 1.1 — Xin lỗi và tạm biệt",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Hayati",
+       "idn": "Apa kabar, Arai?",
+       "vi": "Bạn khỏe không, Arai?"
+      },
+      {
+       "who": "Arai",
+       "idn": "Baik, Hayati. Maaf, aku pergi dulu, ya.",
+       "vi": "Khỏe, Hayati. Xin lỗi, mình đi trước nhé."
+      },
+      {
+       "who": "Hayati",
+       "idn": "Tidak apa-apa, Arai.",
+       "vi": "Không sao đâu, Arai."
+      },
+      {
+       "who": "Arai",
+       "idn": "Sampai jumpa.",
+       "vi": "Hẹn gặp lại."
+      },
+      {
+       "who": "Hayati",
+       "idn": "Sampai jumpa.",
+       "vi": "Hẹn gặp lại."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Chào theo buổi trong ngày",
+     "body": "Thay **pagi** bằng **siang, sore, malam** tùy thời điểm. Khi đáp lại có thể bỏ chữ *selamat*. Với bạn bè dùng **hai**.",
+     "examples": [
+      {
+       "idn": "Selamat pagi. → Pagi.",
+       "vi": "Chào buổi sáng. → Chào buổi sáng."
+      },
+      {
+       "idn": "Selamat sore. → Sore.",
+       "vi": "Chào buổi chiều. → Chào buổi chiều."
+      },
+      {
+       "idn": "Hai, Raden. → Hai, Niken.",
+       "vi": "Chào Raden. → Chào Niken."
+      }
+     ]
+    },
+    {
+     "title": "Pak và Bu: gọi người lớn tuổi",
+     "body": "**Pak** dùng cho nam lớn tuổi hơn, **Bu** cho nữ lớn tuổi hơn. Đứng trước tên: *Pak Budi, Bu Sinta*.",
+     "examples": [
+      {
+       "idn": "Selamat siang, Pak/Bu ___.",
+       "vi": "Chào buổi trưa, thưa ông/bà ___."
+      }
+     ]
+    },
+    {
+     "title": "Câu đơn giản: Chủ ngữ + Động từ (+ Tân ngữ)",
+     "body": "Câu cơ bản có thứ tự giống tiếng Việt. Thêm **sedang** trước động từ để nói *đang làm*. Trang trọng thì đổi **aku** thành **saya**.",
+     "examples": [
+      {
+       "idn": "Aku sedang makan.",
+       "vi": "Tôi đang ăn."
+      },
+      {
+       "idn": "Aku makan soto.",
+       "vi": "Tôi ăn soto."
+      },
+      {
+       "idn": "Aku mandi.",
+       "vi": "Tôi tắm."
+      },
+      {
+       "idn": "Aku bermain bola.",
+       "vi": "Tôi chơi bóng."
+      }
+     ]
+    },
+    {
+     "title": "Từ hỏi apa (gì)",
+     "body": "**apa** dùng để hỏi trạng thái, hành động hoặc sự vật.",
+     "examples": [
+      {
+       "idn": "Apa kabar? → Baik.",
+       "vi": "Bạn khỏe không? → Khỏe. (hỏi trạng thái)"
+      },
+      {
+       "idn": "Kamu sedang apa? → Aku sedang makan.",
+       "vi": "Bạn đang làm gì? → Tôi đang ăn. (hỏi hành động)"
+      },
+      {
+       "idn": "Makan apa? → Aku makan soto.",
+       "vi": "Ăn gì? → Tôi ăn soto. (hỏi sự vật)"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u01-x01",
+     "t": "mcq",
+     "q": "Đáp lại \"Selamat pagi, Dinda.\"",
+     "opts": [
+      "Pagi, Andi.",
+      "Sampai jumpa.",
+      "Maaf.",
+      "Aku makan soto."
+     ],
+     "a": 0,
+     "e": "Chào buổi sáng thì đáp lại bằng Pagi."
+    },
+    {
+     "id": "u01-x02",
+     "t": "mcq",
+     "q": "\"Apa kabar?\" nghĩa là gì?",
+     "opts": [
+      "Bạn tên gì?",
+      "Bạn khỏe không?",
+      "Bạn đi đâu?",
+      "Bạn ăn gì?"
+     ],
+     "a": 1,
+     "e": "Apa kabar? dùng để hỏi thăm sức khỏe."
+    },
+    {
+     "id": "u01-x03",
+     "t": "mcq",
+     "q": "Câu trả lời phù hợp nhất cho \"Apa kabar?\"",
+     "opts": [
+      "Baik.",
+      "Sampai jumpa.",
+      "Maaf.",
+      "Selamat malam."
+     ],
+     "a": 0,
+     "e": "Baik = khỏe, tốt."
+    },
+    {
+     "id": "u01-x04",
+     "t": "mcq",
+     "q": "Gặp một bà cô lớn tuổi, bạn gọi là",
+     "opts": [
+      "Pak",
+      "Bu",
+      "Hai",
+      "Kamu"
+     ],
+     "a": 1,
+     "e": "Bu dành cho nữ lớn tuổi."
+    },
+    {
+     "id": "u01-x05",
+     "t": "fill",
+     "q": "Selamat ___, Bu. (chào buổi sáng)",
+     "a": [
+      "pagi"
+     ],
+     "e": "selamat pagi."
+    },
+    {
+     "id": "u01-x06",
+     "t": "mcq",
+     "q": "Ai đó nói \"Maaf.\" Bạn đáp",
+     "opts": [
+      "Tidak apa-apa.",
+      "Hai.",
+      "Sampai jumpa.",
+      "Makan soto."
+     ],
+     "a": 0,
+     "e": "Tidak apa-apa = không sao."
+    },
+    {
+     "id": "u01-x07",
+     "t": "mcq",
+     "q": "Bạn chuẩn bị đi về, bạn nói",
+     "opts": [
+      "Sampai jumpa.",
+      "Selamat pagi.",
+      "Apa kabar?",
+      "Maaf."
+     ],
+     "a": 0,
+     "e": "Sampai jumpa = hẹn gặp lại."
+    },
+    {
+     "id": "u01-x08",
+     "t": "fill",
+     "q": "Aku ___ makan. (đang)",
+     "a": [
+      "sedang"
+     ],
+     "e": "sedang đứng trước động từ để diễn tả đang làm."
+    },
+    {
+     "id": "u01-x09",
+     "t": "mcq",
+     "q": "Từ nào mang nghĩa \"tôi\" trong tình huống trang trọng?",
+     "opts": [
+      "aku",
+      "saya",
+      "kamu",
+      "hai"
+     ],
+     "a": 1,
+     "e": "Saya trang trọng, aku thân mật."
+    },
+    {
+     "id": "u01-x10",
+     "t": "mcq",
+     "q": "\"Kamu sedang apa?\" trả lời thế nào?",
+     "opts": [
+      "Aku sedang makan.",
+      "Baik.",
+      "Sampai jumpa.",
+      "Selamat siang."
+     ],
+     "a": 0,
+     "e": "Hỏi bạn đang làm gì thì trả lời hành động."
+    },
+    {
+     "id": "u01-x11",
+     "t": "mcq",
+     "q": "\"Aku mandi\" nghĩa là",
+     "opts": [
+      "Tôi tắm",
+      "Tôi ngủ",
+      "Tôi học",
+      "Tôi ăn"
+     ],
+     "a": 0,
+     "e": "mandi = tắm."
+    },
+    {
+     "id": "u01-x12",
+     "t": "mcq",
+     "q": "Khi nào dùng \"Selamat malam\"?",
+     "opts": [
+      "Buổi tối",
+      "Buổi sáng",
+      "Buổi trưa",
+      "Buổi chiều"
+     ],
+     "a": 0,
+     "e": "malam = tối."
+    }
+   ],
+   "culture": {
+    "title": "Salam keagamaan di Indonesia",
+    "vi": "Khi phát biểu hoặc nói chuyện trước đông người, người Indonesia thường dùng các lời chào theo tôn giáo: **Assalamualaikum** (Hồi giáo), **Salam sejahtera** (Cơ đốc giáo), **Om swastiastu** (Hindu) và **Namo buddhaya** (Phật giáo). Cách chào này nhằm chào hỏi cộng đồng đến từ nhiều tôn giáo khác nhau."
+   }
+  },
+  {
+   "id": "u02",
+   "num": 2,
+   "title": "Perkenalan Ni Luh",
+   "vi_title": "Tự giới thiệu",
+   "goals": [
+    "Nhận biết từ và cụm từ về thông tin cá nhân",
+    "Nói câu đơn giản về bản thân và người khác",
+    "Đọc đoạn văn ngắn tự giới thiệu và điền biểu mẫu thông tin cá nhân"
+   ],
+   "vocab": [
+    {
+     "id": "u02-v01",
+     "idn": "kenalkan",
+     "vi": "xin giới thiệu, để tôi giới thiệu"
+    },
+    {
+     "id": "u02-v02",
+     "idn": "nama",
+     "vi": "tên"
+    },
+    {
+     "id": "u02-v03",
+     "idn": "nama lengkap",
+     "vi": "họ tên đầy đủ"
+    },
+    {
+     "id": "u02-v04",
+     "idn": "usia",
+     "vi": "tuổi"
+    },
+    {
+     "id": "u02-v05",
+     "idn": "tahun",
+     "vi": "năm; tuổi"
+    },
+    {
+     "id": "u02-v06",
+     "idn": "berasal dari",
+     "vi": "đến từ, xuất thân từ"
+    },
+    {
+     "id": "u02-v07",
+     "idn": "tinggal",
+     "vi": "sống, ở (nơi cư trú)"
+    },
+    {
+     "id": "u02-v08",
+     "idn": "orang",
+     "vi": "người"
+    },
+    {
+     "id": "u02-v09",
+     "idn": "negara",
+     "vi": "nước, quốc gia"
+    },
+    {
+     "id": "u02-v10",
+     "idn": "suku",
+     "vi": "dân tộc (trong Indonesia)"
+    },
+    {
+     "id": "u02-v11",
+     "idn": "mahasiswa",
+     "vi": "sinh viên"
+    },
+    {
+     "id": "u02-v12",
+     "idn": "penyanyi",
+     "vi": "ca sĩ"
+    },
+    {
+     "id": "u02-v13",
+     "idn": "lahir",
+     "vi": "sinh ra"
+    },
+    {
+     "id": "u02-v14",
+     "idn": "alamat",
+     "vi": "địa chỉ"
+    },
+    {
+     "id": "u02-v15",
+     "idn": "agama",
+     "vi": "tôn giáo"
+    },
+    {
+     "id": "u02-v16",
+     "idn": "pekerjaan",
+     "vi": "nghề nghiệp"
+    },
+    {
+     "id": "u02-v17",
+     "idn": "kewarganegaraan",
+     "vi": "quốc tịch"
+    },
+    {
+     "id": "u02-v18",
+     "idn": "golongan darah",
+     "vi": "nhóm máu"
+    },
+    {
+     "id": "u02-v19",
+     "idn": "tempat dan tanggal lahir",
+     "vi": "nơi và ngày sinh"
+    },
+    {
+     "id": "u02-v20",
+     "idn": "formulir",
+     "vi": "biểu mẫu, đơn"
+    },
+    {
+     "id": "u02-v21",
+     "idn": "data diri",
+     "vi": "thông tin cá nhân"
+    },
+    {
+     "id": "u02-v22",
+     "idn": "dia",
+     "vi": "anh ấy, cô ấy"
+    },
+    {
+     "id": "u02-v23",
+     "idn": "Indonesia",
+     "vi": "Indonesia"
+    },
+    {
+     "id": "u02-v24",
+     "idn": "Amerika",
+     "vi": "Mỹ"
+    },
+    {
+     "id": "u02-v25",
+     "idn": "Jepang",
+     "vi": "Nhật Bản"
+    },
+    {
+     "id": "u02-v26",
+     "idn": "Prancis",
+     "vi": "Pháp"
+    },
+    {
+     "id": "u02-v27",
+     "idn": "Australia",
+     "vi": "Úc"
+    },
+    {
+     "id": "u02-v28",
+     "idn": "Jawa",
+     "vi": "(người) Java"
+    },
+    {
+     "id": "u02-v29",
+     "idn": "Batak",
+     "vi": "(người) Batak"
+    },
+    {
+     "id": "u02-v30",
+     "idn": "Dayak",
+     "vi": "(người) Dayak"
+    },
+    {
+     "id": "u02-v31",
+     "idn": "siapa",
+     "vi": "ai"
+    },
+    {
+     "id": "u02-v32",
+     "idn": "nol",
+     "vi": "không",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v33",
+     "idn": "satu",
+     "vi": "một",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v34",
+     "idn": "dua",
+     "vi": "hai",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v35",
+     "idn": "tiga",
+     "vi": "ba",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v36",
+     "idn": "empat",
+     "vi": "bốn",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v37",
+     "idn": "lima",
+     "vi": "năm",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v38",
+     "idn": "enam",
+     "vi": "sáu",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v39",
+     "idn": "tujuh",
+     "vi": "bảy",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v40",
+     "idn": "delapan",
+     "vi": "tám",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v41",
+     "idn": "sembilan",
+     "vi": "chín",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v42",
+     "idn": "sepuluh",
+     "vi": "mười",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v43",
+     "idn": "sebelas",
+     "vi": "mười một",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v44",
+     "idn": "dua puluh",
+     "vi": "hai mươi",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v45",
+     "idn": "seratus",
+     "vi": "một trăm",
+     "note": "số đếm bổ sung",
+     "extra": true
+    },
+    {
+     "id": "u02-v46",
+     "idn": "seribu",
+     "vi": "một nghìn",
+     "note": "số đếm bổ sung",
+     "extra": true
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 2.1 — Ni Luh tự giới thiệu",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Kenalkan, nama saya Ni Luh Putu Riyandewi.",
+       "vi": "Xin giới thiệu, tên tôi là Ni Luh Putu Riyandewi."
+      },
+      {
+       "idn": "Usia saya dua puluh empat tahun.",
+       "vi": "Tôi hai mươi bốn tuổi."
+      },
+      {
+       "idn": "Saya berasal dari Bali.",
+       "vi": "Tôi đến từ Bali."
+      },
+      {
+       "idn": "Saya tinggal di Tabanan.",
+       "vi": "Tôi sống ở Tabanan."
+      },
+      {
+       "idn": "Saya mahasiswa.",
+       "vi": "Tôi là sinh viên."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/948BIPA_1_UMUM_AUDIO_2.1.mp3"
+    },
+    {
+     "title": "Audio 2.2 — Nghe giới thiệu bản thân",
+     "kind": "dialog",
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/239BIPA_1_UMUM_AUDIO_2.2.mp3",
+     "lines": [
+      {
+       "who": "Tenri",
+       "idn": "Kenalkan, nama saya Tenri Sanna. Saya berasal dari Makassar. Saya guru.",
+       "vi": "Xin giới thiệu, tên tôi là Tenri Sanna. Tôi đến từ Makassar. Tôi là giáo viên."
+      },
+      {
+       "who": "Brikjon",
+       "idn": "Kenalkan, nama saya Brikjon Hasugian. Saya berasal dari Medan. Saya dokter.",
+       "vi": "Xin giới thiệu, tên tôi là Brikjon Hasugian. Tôi đến từ Medan. Tôi là bác sĩ."
+      },
+      {
+       "who": "Lendy",
+       "idn": "Kenalkan, nama saya Lendy Luturmas. Saya berasal dari Ambon. Saya polisi.",
+       "vi": "Xin giới thiệu, tên tôi là Lendy Luturmas. Tôi đến từ Ambon. Tôi là cảnh sát."
+      }
+     ]
+    },
+    {
+     "title": "Dialog 2.1 — Samuel và Cut Syifa",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Samuel",
+       "idn": "Kenalkan, saya Samuel.",
+       "vi": "Xin giới thiệu, tôi là Samuel."
+      },
+      {
+       "who": "Cut Syifa",
+       "idn": "Kenalkan, saya Cut Syifa.",
+       "vi": "Xin giới thiệu, tôi là Cut Syifa."
+      },
+      {
+       "who": "Samuel",
+       "idn": "Saya orang Australia.",
+       "vi": "Tôi là người Úc."
+      },
+      {
+       "who": "Cut Syifa",
+       "idn": "Saya orang Indonesia.",
+       "vi": "Tôi là người Indonesia."
+      }
+     ]
+    },
+    {
+     "title": "Giới thiệu người nổi tiếng",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Kenalkan, ini Agnes Monica. Dia penyanyi.",
+       "vi": "Xin giới thiệu, đây là Agnes Monica. Cô ấy là ca sĩ."
+      },
+      {
+       "idn": "Dia berasal dari Jakarta.",
+       "vi": "Cô ấy đến từ Jakarta."
+      },
+      {
+       "idn": "Dia lahir tanggal 1 Juli 1986.",
+       "vi": "Cô ấy sinh ngày 1 tháng 7 năm 1986."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Mẫu tự giới thiệu",
+     "body": "Dùng **Kenalkan, nama saya ...** hoặc ngắn hơn **Kenalkan, saya ...** để giới thiệu tên. Thông tin khác đi theo mẫu *Saya + ...*.",
+     "examples": [
+      {
+       "idn": "Kenalkan, nama saya Ni Luh.",
+       "vi": "Xin giới thiệu, tên tôi là Ni Luh."
+      },
+      {
+       "idn": "Usia saya ___ tahun.",
+       "vi": "Tôi ___ tuổi."
+      },
+      {
+       "idn": "Saya berasal dari Bali.",
+       "vi": "Tôi đến từ Bali."
+      },
+      {
+       "idn": "Saya tinggal di Tabanan.",
+       "vi": "Tôi sống ở Tabanan."
+      },
+      {
+       "idn": "Saya mahasiswa.",
+       "vi": "Tôi là sinh viên."
+      }
+     ]
+    },
+    {
+     "title": "orang + tên nước hoặc dân tộc",
+     "body": "Ghép **orang** với tên nước để nói quốc tịch, hoặc với tên dân tộc để nói nguồn gốc dân tộc. Tiếng Indonesia không cần từ *là* trước danh từ nghề nghiệp, quốc tịch.",
+     "examples": [
+      {
+       "idn": "orang + Australia = orang Australia",
+       "vi": "người Úc"
+      },
+      {
+       "idn": "orang + Indonesia = orang Indonesia",
+       "vi": "người Indonesia"
+      },
+      {
+       "idn": "Saya orang Jawa.",
+       "vi": "Tôi là người Java."
+      },
+      {
+       "idn": "Dia orang Batak.",
+       "vi": "Anh ấy là người Batak."
+      }
+     ]
+    },
+    {
+     "title": "Số đếm cơ bản (bổ sung)",
+     "body": "1 **satu**, 2 **dua**, 3 **tiga**, 4 **empat**, 5 **lima**, 6 **enam**, 7 **tujuh**, 8 **delapan**, 9 **sembilan**, 10 **sepuluh**. 11 là **sebelas**, 12 đến 19 là *số + belas* (dua belas, tiga belas...). Tròn chục là *số + puluh* (dua puluh = 20). Ghép lại: **dua puluh empat** = 24. Còn **seratus** = 100, **seribu** = 1.000.",
+     "examples": [
+      {
+       "idn": "dua puluh empat",
+       "vi": "hai mươi bốn (24)"
+      },
+      {
+       "idn": "tiga puluh lima",
+       "vi": "ba mươi lăm (35)"
+      },
+      {
+       "idn": "lima puluh ribu",
+       "vi": "năm mươi nghìn (50.000)"
+      }
+     ]
+    },
+    {
+     "title": "Từ hỏi để điền thông tin",
+     "body": "**Siapa** hỏi người, **di mana** hỏi nơi chốn, **apa** hỏi sự vật.",
+     "examples": [
+      {
+       "idn": "Siapa nama lengkap Ni Luh?",
+       "vi": "Họ tên đầy đủ của Ni Luh là gì?"
+      },
+      {
+       "idn": "Di mana alamat rumah Ni Luh?",
+       "vi": "Địa chỉ nhà Ni Luh ở đâu?"
+      },
+      {
+       "idn": "Apa pekerjaan Ni Luh?",
+       "vi": "Nghề nghiệp của Ni Luh là gì?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u02-x01",
+     "t": "mcq",
+     "q": "\"Kenalkan, saya Samuel.\" nghĩa là",
+     "opts": [
+      "Xin giới thiệu, tôi là Samuel.",
+      "Tạm biệt, Samuel.",
+      "Samuel khỏe không?",
+      "Samuel đang ăn."
+     ],
+     "a": 0,
+     "e": "Kenalkan = xin giới thiệu."
+    },
+    {
+     "id": "u02-x02",
+     "t": "mcq",
+     "q": "\"Saya berasal dari Bali.\" nghĩa là",
+     "opts": [
+      "Tôi đến từ Bali.",
+      "Tôi sống ở Bali.",
+      "Tôi đi Bali.",
+      "Tôi thích Bali."
+     ],
+     "a": 0,
+     "e": "berasal dari = đến từ."
+    },
+    {
+     "id": "u02-x03",
+     "t": "fill",
+     "q": "Saya ___ Indonesia. (tôi là người Indonesia)",
+     "a": [
+      "orang"
+     ],
+     "e": "orang + tên nước."
+    },
+    {
+     "id": "u02-x04",
+     "t": "mcq",
+     "q": "\"Usia saya dua puluh empat tahun.\" Tuổi của người nói?",
+     "opts": [
+      "24",
+      "14",
+      "42",
+      "20"
+     ],
+     "a": 0,
+     "e": "dua puluh = 20, empat = 4."
+    },
+    {
+     "id": "u02-x05",
+     "t": "mcq",
+     "q": "\"mahasiswa\" nghĩa là",
+     "opts": [
+      "sinh viên",
+      "giáo viên",
+      "ca sĩ",
+      "nông dân"
+     ],
+     "a": 0,
+     "e": "mahasiswa = sinh viên."
+    },
+    {
+     "id": "u02-x06",
+     "t": "mcq",
+     "q": "Từ nào dùng để hỏi một người?",
+     "opts": [
+      "siapa",
+      "apa",
+      "di mana",
+      "kapan"
+     ],
+     "a": 0,
+     "e": "siapa = ai."
+    },
+    {
+     "id": "u02-x07",
+     "t": "mcq",
+     "q": "\"Pekerjaan\" trên biểu mẫu là",
+     "opts": [
+      "Nghề nghiệp",
+      "Địa chỉ",
+      "Tôn giáo",
+      "Quốc tịch"
+     ],
+     "a": 0,
+     "e": "pekerjaan = nghề nghiệp."
+    },
+    {
+     "id": "u02-x08",
+     "t": "mcq",
+     "q": "\"Kewarganegaraan\" trên biểu mẫu là",
+     "opts": [
+      "Quốc tịch",
+      "Nhóm máu",
+      "Địa chỉ",
+      "Họ tên"
+     ],
+     "a": 0,
+     "e": "kewarganegaraan = quốc tịch."
+    },
+    {
+     "id": "u02-x09",
+     "t": "fill",
+     "q": "Số 5 trong tiếng Indonesia là ___",
+     "a": [
+      "lima"
+     ],
+     "e": "lima = 5."
+    },
+    {
+     "id": "u02-x10",
+     "t": "fill",
+     "q": "Số 20 trong tiếng Indonesia là ___ puluh",
+     "a": [
+      "dua"
+     ],
+     "e": "dua puluh = 20."
+    },
+    {
+     "id": "u02-x11",
+     "t": "mcq",
+     "q": "\"Saya tinggal di Tabanan.\" thông tin nào?",
+     "opts": [
+      "Nơi ở",
+      "Quê quán",
+      "Tuổi",
+      "Nghề nghiệp"
+     ],
+     "a": 0,
+     "e": "tinggal di = sống ở."
+    },
+    {
+     "id": "u02-x12",
+     "t": "mcq",
+     "q": "Cách nói \"Tôi là người Nhật\"",
+     "opts": [
+      "Saya orang Jepang.",
+      "Saya orang Prancis.",
+      "Saya orang Jawa.",
+      "Saya Jepang orang."
+     ],
+     "a": 0,
+     "e": "orang + Jepang."
+    }
+   ],
+   "culture": {
+    "title": "Văn hóa làm quen của người Indonesia",
+    "vi": "Người Indonesia thường làm quen bằng cách **bắt tay**, thường là tay phải. Một số người bắt bằng hai tay, khác nhau ở chỗ đầu ngón tay có chạm nhau hay không. Ngoài ra còn có văn hóa **cium tangan (salim)**: hôn lên tay người lớn tuổi để tỏ lòng kính trọng, ví dụ học sinh với thầy cô, con cái với cha mẹ."
+   }
+  },
+  {
+   "id": "u03",
+   "num": 3,
+   "title": "Keluargaku",
+   "vi_title": "Gia đình tôi",
+   "goals": [
+    "Gọi tên các thành viên trong gia đình",
+    "Giới thiệu gia đình mình bằng câu đơn giản",
+    "Đọc và viết đoạn ngắn mô tả gia đình"
+   ],
+   "vocab": [
+    {
+     "id": "u03-v01",
+     "idn": "keluarga",
+     "vi": "gia đình"
+    },
+    {
+     "id": "u03-v02",
+     "idn": "ayah",
+     "vi": "bố, cha"
+    },
+    {
+     "id": "u03-v03",
+     "idn": "ibu",
+     "vi": "mẹ"
+    },
+    {
+     "id": "u03-v04",
+     "idn": "orang tua",
+     "vi": "cha mẹ"
+    },
+    {
+     "id": "u03-v05",
+     "idn": "kakak",
+     "vi": "anh hoặc chị (người lớn hơn)"
+    },
+    {
+     "id": "u03-v06",
+     "idn": "kakak perempuan",
+     "vi": "chị gái"
+    },
+    {
+     "id": "u03-v07",
+     "idn": "kakak laki-laki",
+     "vi": "anh trai"
+    },
+    {
+     "id": "u03-v08",
+     "idn": "adik",
+     "vi": "em"
+    },
+    {
+     "id": "u03-v09",
+     "idn": "anak",
+     "vi": "con; đứa trẻ"
+    },
+    {
+     "id": "u03-v10",
+     "idn": "anak tunggal",
+     "vi": "con một"
+    },
+    {
+     "id": "u03-v11",
+     "idn": "anak kedua",
+     "vi": "con thứ hai"
+    },
+    {
+     "id": "u03-v12",
+     "idn": "saudara",
+     "vi": "anh chị em ruột"
+    },
+    {
+     "id": "u03-v13",
+     "idn": "kakek",
+     "vi": "ông"
+    },
+    {
+     "id": "u03-v14",
+     "idn": "nenek",
+     "vi": "bà"
+    },
+    {
+     "id": "u03-v15",
+     "idn": "keponakan",
+     "vi": "cháu (con của anh chị em)"
+    },
+    {
+     "id": "u03-v16",
+     "idn": "ipar",
+     "vi": "anh/chị/em rể hoặc dâu"
+    },
+    {
+     "id": "u03-v17",
+     "idn": "kakak ipar",
+     "vi": "anh rể, chị dâu"
+    },
+    {
+     "id": "u03-v18",
+     "idn": "menikah",
+     "vi": "kết hôn"
+    },
+    {
+     "id": "u03-v19",
+     "idn": "sudah menikah",
+     "vi": "đã kết hôn"
+    },
+    {
+     "id": "u03-v20",
+     "idn": "belum menikah",
+     "vi": "chưa kết hôn"
+    },
+    {
+     "id": "u03-v21",
+     "idn": "punya",
+     "vi": "có (sở hữu)"
+    },
+    {
+     "id": "u03-v22",
+     "idn": "ada",
+     "vi": "có (tồn tại); ở"
+    },
+    {
+     "id": "u03-v23",
+     "idn": "foto",
+     "vi": "ảnh"
+    },
+    {
+     "id": "u03-v24",
+     "idn": "siapa saja",
+     "vi": "những ai"
+    },
+    {
+     "id": "u03-v25",
+     "idn": "mereka",
+     "vi": "họ"
+    },
+    {
+     "id": "u03-v26",
+     "idn": "ini",
+     "vi": "này, đây (gần)"
+    },
+    {
+     "id": "u03-v27",
+     "idn": "itu",
+     "vi": "kia, đó (xa)"
+    },
+    {
+     "id": "u03-v28",
+     "idn": "-ku",
+     "vi": "của tôi"
+    },
+    {
+     "id": "u03-v29",
+     "idn": "-mu",
+     "vi": "của bạn"
+    },
+    {
+     "id": "u03-v30",
+     "idn": "-nya",
+     "vi": "của anh ấy/cô ấy/họ"
+    },
+    {
+     "id": "u03-v31",
+     "idn": "bagaimana denganmu?",
+     "vi": "còn bạn thì sao?"
+    },
+    {
+     "id": "u03-v32",
+     "idn": "memanggil",
+     "vi": "gọi"
+    },
+    {
+     "id": "u03-v33",
+     "idn": "sebutan",
+     "vi": "cách gọi"
+    },
+    {
+     "id": "u03-v34",
+     "idn": "bapak",
+     "vi": "ông, bác, chú",
+     "note": "(Pak)"
+    },
+    {
+     "id": "u03-v35",
+     "idn": "mas",
+     "vi": "anh",
+     "note": "dùng ở Java"
+    },
+    {
+     "id": "u03-v36",
+     "idn": "mbak",
+     "vi": "chị",
+     "note": "dùng ở Java"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 3.1 — Ảnh gia đình",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Ajeng",
+       "idn": "Raden, itu foto keluargamu?",
+       "vi": "Raden, đó là ảnh gia đình bạn à?"
+      },
+      {
+       "who": "Raden",
+       "idn": "Iya, Ajeng.",
+       "vi": "Ừ, Ajeng."
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Siapa saja mereka?",
+       "vi": "Họ là những ai vậy?"
+      },
+      {
+       "who": "Raden",
+       "idn": "Ini ayah, ibu, aku, dan kakak perempuanku.",
+       "vi": "Đây là bố, mẹ, mình và chị gái mình."
+      },
+      {
+       "who": "Ajeng",
+       "idn": "O, kamu anak kedua?",
+       "vi": "Ồ, bạn là con thứ hai à?"
+      },
+      {
+       "who": "Raden",
+       "idn": "Iya. Bagaimana denganmu?",
+       "vi": "Ừ. Còn bạn thì sao?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Aku anak tunggal.",
+       "vi": "Mình là con một."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/860BIPA_1_UMUM_AUDIO_3.1.mp3"
+    },
+    {
+     "title": "Audio 3.2 — Giới thiệu họ hàng",
+     "kind": "dialog",
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/586BIPA_1_UMUM_AUDIO_3.2.mp3",
+     "lines": [
+      {
+       "who": "Marlina",
+       "idn": "Samuel, kenalkan. Ini sepupuku. Namanya Togar.",
+       "vi": "Samuel, xin giới thiệu. Đây là anh em họ của mình. Tên anh ấy là Togar."
+      },
+      {
+       "who": "Samuel",
+       "idn": "Hai, namaku Samuel.",
+       "vi": "Chào bạn, tên mình là Samuel."
+      },
+      {
+       "who": "Togar",
+       "idn": "Namaku Togar. Kamu berasal dari mana?",
+       "vi": "Tên mình là Togar. Bạn đến từ đâu?"
+      },
+      {
+       "who": "Samuel",
+       "idn": "Aku dari Australia.",
+       "vi": "Mình đến từ Úc."
+      },
+      {
+       "who": "Togar",
+       "idn": "Apa orang tuamu ada di Australia?",
+       "vi": "Bố mẹ bạn có ở Úc không?"
+      },
+      {
+       "who": "Samuel",
+       "idn": "Ya, mereka ada di Australia.",
+       "vi": "Có, họ đang ở Úc."
+      },
+      {
+       "who": "Togar",
+       "idn": "Apa kamu punya saudara?",
+       "vi": "Bạn có anh chị em không?"
+      },
+      {
+       "who": "Samuel",
+       "idn": "Punya, aku punya satu kakak perempuan.",
+       "vi": "Có, mình có một người chị gái."
+      }
+     ]
+    },
+    {
+     "title": "Teks 3.1 — Keluarga Raden",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Ini keluarga Raden. Ada ayah, ibu, kakak perempuan, dan Raden.",
+       "vi": "Đây là gia đình Raden. Có bố, mẹ, chị gái và Raden."
+      },
+      {
+       "idn": "Orang tua Raden namanya Dedi dan Heni.",
+       "vi": "Cha mẹ của Raden tên là Dedi và Heni."
+      },
+      {
+       "idn": "Raden punya kakak perempuan. Namanya Rara.",
+       "vi": "Raden có một chị gái. Tên chị là Rara."
+      },
+      {
+       "idn": "Rara menikah dengan Bayu. Bayu menjadi kakak ipar Raden.",
+       "vi": "Rara kết hôn với Bayu. Bayu là anh rể của Raden."
+      },
+      {
+       "idn": "Raden punya keponakan. Namanya Tika.",
+       "vi": "Raden có một cháu. Tên cháu là Tika."
+      },
+      {
+       "idn": "Tika memanggil orang tua Raden dengan sebutan kakek dan nenek.",
+       "vi": "Tika gọi cha mẹ của Raden là ông và bà."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "ini và itu: chỉ vật gần và xa",
+     "body": "**ini** chỉ vật ở gần, **itu** chỉ vật ở xa.",
+     "examples": [
+      {
+       "idn": "Ini ayahku.",
+       "vi": "Đây là bố tôi."
+      },
+      {
+       "idn": "Itu foto keluargamu?",
+       "vi": "Đó là ảnh gia đình bạn à?"
+      }
+     ]
+    },
+    {
+     "title": "-ku, -mu, -nya: sở hữu",
+     "body": "Gắn vào cuối danh từ để chỉ sở hữu. **-ku** là của tôi, **-mu** là của bạn, **-nya** là của anh ấy, cô ấy hoặc họ.",
+     "examples": [
+      {
+       "idn": "keluarga saya → keluargaku",
+       "vi": "gia đình của tôi"
+      },
+      {
+       "idn": "keluarga Anda → keluargamu",
+       "vi": "gia đình của bạn"
+      },
+      {
+       "idn": "keluarga mereka → keluarganya",
+       "vi": "gia đình của họ"
+      },
+      {
+       "idn": "kakak perempuanku",
+       "vi": "chị gái của tôi"
+      }
+     ]
+    },
+    {
+     "title": "siapa (ai) hỏi về người",
+     "body": "Dùng **siapa** để hỏi người. Thêm **saja** nghĩa là *những ai*.",
+     "examples": [
+      {
+       "idn": "Siapa saja mereka?",
+       "vi": "Họ là những ai?"
+      },
+      {
+       "idn": "Foto keluarga siapa itu?",
+       "vi": "Đó là ảnh gia đình của ai?"
+      }
+     ]
+    },
+    {
+     "title": "ada và punya",
+     "body": "**Ada** nói về sự tồn tại: *có*, hoặc *ở*. **Punya** nói về sự sở hữu: *có* theo nghĩa *sở hữu*.",
+     "examples": [
+      {
+       "idn": "Ada ayah, ibu, dan kakak.",
+       "vi": "Có bố, mẹ và chị."
+      },
+      {
+       "idn": "Raden punya kakak perempuan.",
+       "vi": "Raden có một chị gái."
+      },
+      {
+       "idn": "Raden belum menikah.",
+       "vi": "Raden chưa kết hôn."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u03-x01",
+     "t": "mcq",
+     "q": "\"ayah\" là",
+     "opts": [
+      "bố",
+      "mẹ",
+      "anh",
+      "ông"
+     ],
+     "a": 0,
+     "e": "ayah = bố."
+    },
+    {
+     "id": "u03-x02",
+     "t": "mcq",
+     "q": "\"anak tunggal\" nghĩa là",
+     "opts": [
+      "con một",
+      "con thứ hai",
+      "con gái",
+      "con nuôi"
+     ],
+     "a": 0,
+     "e": "tunggal = duy nhất."
+    },
+    {
+     "id": "u03-x03",
+     "t": "mcq",
+     "q": "\"keluargaku\" nghĩa là",
+     "opts": [
+      "gia đình của tôi",
+      "gia đình của bạn",
+      "gia đình họ",
+      "gia đình tôi và bạn"
+     ],
+     "a": 0,
+     "e": "-ku = của tôi."
+    },
+    {
+     "id": "u03-x04",
+     "t": "mcq",
+     "q": "\"keluargamu\" nghĩa là",
+     "opts": [
+      "gia đình của bạn",
+      "gia đình của tôi",
+      "gia đình của họ",
+      "gia đình lớn"
+     ],
+     "a": 0,
+     "e": "-mu = của bạn."
+    },
+    {
+     "id": "u03-x05",
+     "t": "fill",
+     "q": "Ini ayah___. (bố của tôi)",
+     "a": [
+      "ku"
+     ],
+     "e": "gắn -ku sau danh từ."
+    },
+    {
+     "id": "u03-x06",
+     "t": "mcq",
+     "q": "Vật ở xa dùng từ",
+     "opts": [
+      "itu",
+      "ini",
+      "ada",
+      "punya"
+     ],
+     "a": 0,
+     "e": "itu = kia, đó."
+    },
+    {
+     "id": "u03-x07",
+     "t": "mcq",
+     "q": "\"Raden punya kakak perempuan.\" nghĩa là",
+     "opts": [
+      "Raden có một chị gái.",
+      "Raden là chị gái.",
+      "Raden ở với chị.",
+      "Raden thích chị."
+     ],
+     "a": 0,
+     "e": "punya = có (sở hữu)."
+    },
+    {
+     "id": "u03-x08",
+     "t": "mcq",
+     "q": "Từ hỏi \"ai\"",
+     "opts": [
+      "siapa",
+      "apa",
+      "kapan",
+      "berapa"
+     ],
+     "a": 0,
+     "e": "siapa = ai."
+    },
+    {
+     "id": "u03-x09",
+     "t": "mcq",
+     "q": "\"Bayu menjadi kakak ipar Raden.\" Bayu là",
+     "opts": [
+      "anh rể của Raden",
+      "cha của Raden",
+      "cháu của Raden",
+      "ông của Raden"
+     ],
+     "a": 0,
+     "e": "kakak ipar = anh rể, chị dâu."
+    },
+    {
+     "id": "u03-x10",
+     "t": "mcq",
+     "q": "\"Aku anak tunggal.\" Ajeng",
+     "opts": [
+      "không có anh chị em",
+      "có một chị",
+      "có một em",
+      "có hai anh"
+     ],
+     "a": 0,
+     "e": "anak tunggal = con một."
+    },
+    {
+     "id": "u03-x11",
+     "t": "fill",
+     "q": "Rara ___ dengan Bayu. (kết hôn)",
+     "a": [
+      "menikah"
+     ],
+     "e": "menikah = kết hôn."
+    },
+    {
+     "id": "u03-x12",
+     "t": "mcq",
+     "q": "Tika gọi cha mẹ của Raden là gì?",
+     "opts": [
+      "kakek dan nenek",
+      "ayah dan ibu",
+      "kakak",
+      "adik"
+     ],
+     "a": 0,
+     "e": "Tika là cháu nên gọi là ông, bà."
+    }
+   ],
+   "culture": {
+    "title": "Cách xưng hô lịch sự của người Indonesia",
+    "vi": "Người Indonesia thường gọi người lớn tuổi là **bapak (Pak)** cho nam và **ibu (Bu)** cho nữ. Ở đảo Java dùng **mas** (nam) và **mbak** (nữ) cho người lớn hơn. Mỗi vùng khác nhau: người Batak dùng *ito, kakak, abang*; người Minang dùng *uda, uni*; người Sunda dùng *teteh, aa*; người Bali dùng *bli, mbok*."
+   }
+  },
+  {
+   "id": "u04",
+   "num": 4,
+   "title": "Ulang Tahunku",
+   "vi_title": "Sinh nhật của tôi",
+   "goals": [
+    "Nhận biết từ về giờ, thứ, ngày, tháng, năm",
+    "Nói và hỏi về ngày sinh, thời gian",
+    "Đọc đoạn ngắn về sinh nhật và viết thiệp mời"
+   ],
+   "vocab": [
+    {
+     "id": "u04-v01",
+     "idn": "ulang tahun",
+     "vi": "sinh nhật"
+    },
+    {
+     "id": "u04-v02",
+     "idn": "hari ulang tahun",
+     "vi": "ngày sinh nhật"
+    },
+    {
+     "id": "u04-v03",
+     "idn": "lahir",
+     "vi": "sinh ra"
+    },
+    {
+     "id": "u04-v04",
+     "idn": "kapan",
+     "vi": "khi nào"
+    },
+    {
+     "id": "u04-v05",
+     "idn": "tanggal",
+     "vi": "ngày (trong tháng)"
+    },
+    {
+     "id": "u04-v06",
+     "idn": "pukul",
+     "vi": "giờ, lúc (mấy giờ)"
+    },
+    {
+     "id": "u04-v07",
+     "idn": "pukul berapa?",
+     "vi": "mấy giờ?"
+    },
+    {
+     "id": "u04-v08",
+     "idn": "tempat",
+     "vi": "nơi, địa điểm"
+    },
+    {
+     "id": "u04-v09",
+     "idn": "pesta",
+     "vi": "bữa tiệc"
+    },
+    {
+     "id": "u04-v10",
+     "idn": "datang",
+     "vi": "đến"
+    },
+    {
+     "id": "u04-v11",
+     "idn": "tentu saja",
+     "vi": "tất nhiên"
+    },
+    {
+     "id": "u04-v12",
+     "idn": "undangan",
+     "vi": "thiệp mời, lời mời"
+    },
+    {
+     "id": "u04-v13",
+     "idn": "mengundang",
+     "vi": "mời"
+    },
+    {
+     "id": "u04-v14",
+     "idn": "merayakan",
+     "vi": "tổ chức, ăn mừng"
+    },
+    {
+     "id": "u04-v15",
+     "idn": "hadiah",
+     "vi": "quà"
+    },
+    {
+     "id": "u04-v16",
+     "idn": "jam tangan",
+     "vi": "đồng hồ đeo tay"
+    },
+    {
+     "id": "u04-v17",
+     "idn": "peralatan melukis",
+     "vi": "dụng cụ vẽ"
+    },
+    {
+     "id": "u04-v18",
+     "idn": "pelukis",
+     "vi": "họa sĩ"
+    },
+    {
+     "id": "u04-v19",
+     "idn": "seni lukis",
+     "vi": "hội họa"
+    },
+    {
+     "id": "u04-v20",
+     "idn": "berkuliah",
+     "vi": "học đại học"
+    },
+    {
+     "id": "u04-v21",
+     "idn": "lulus",
+     "vi": "tốt nghiệp, đỗ"
+    },
+    {
+     "id": "u04-v22",
+     "idn": "seandainya",
+     "vi": "giá như, nếu như"
+    },
+    {
+     "id": "u04-v23",
+     "idn": "kalau begitu",
+     "vi": "nếu vậy thì"
+    },
+    {
+     "id": "u04-v24",
+     "idn": "kemarin",
+     "vi": "hôm qua"
+    },
+    {
+     "id": "u04-v25",
+     "idn": "hari ini",
+     "vi": "hôm nay"
+    },
+    {
+     "id": "u04-v26",
+     "idn": "besok",
+     "vi": "ngày mai"
+    },
+    {
+     "id": "u04-v27",
+     "idn": "lusa",
+     "vi": "ngày kia"
+    },
+    {
+     "id": "u04-v28",
+     "idn": "minggu lalu",
+     "vi": "tuần trước"
+    },
+    {
+     "id": "u04-v29",
+     "idn": "minggu ini",
+     "vi": "tuần này"
+    },
+    {
+     "id": "u04-v30",
+     "idn": "minggu depan",
+     "vi": "tuần sau"
+    },
+    {
+     "id": "u04-v31",
+     "idn": "bulan lalu",
+     "vi": "tháng trước"
+    },
+    {
+     "id": "u04-v32",
+     "idn": "bulan ini",
+     "vi": "tháng này"
+    },
+    {
+     "id": "u04-v33",
+     "idn": "bulan depan",
+     "vi": "tháng sau"
+    },
+    {
+     "id": "u04-v34",
+     "idn": "tahun lalu",
+     "vi": "năm ngoái"
+    },
+    {
+     "id": "u04-v35",
+     "idn": "tahun ini",
+     "vi": "năm nay"
+    },
+    {
+     "id": "u04-v36",
+     "idn": "tahun depan",
+     "vi": "năm sau"
+    },
+    {
+     "id": "u04-v37",
+     "idn": "Senin",
+     "vi": "thứ Hai"
+    },
+    {
+     "id": "u04-v38",
+     "idn": "Selasa",
+     "vi": "thứ Ba"
+    },
+    {
+     "id": "u04-v39",
+     "idn": "Rabu",
+     "vi": "thứ Tư"
+    },
+    {
+     "id": "u04-v40",
+     "idn": "Kamis",
+     "vi": "thứ Năm"
+    },
+    {
+     "id": "u04-v41",
+     "idn": "Jumat",
+     "vi": "thứ Sáu"
+    },
+    {
+     "id": "u04-v42",
+     "idn": "Sabtu",
+     "vi": "thứ Bảy"
+    },
+    {
+     "id": "u04-v43",
+     "idn": "Minggu",
+     "vi": "Chủ nhật"
+    },
+    {
+     "id": "u04-v44",
+     "idn": "Januari",
+     "vi": "tháng Một"
+    },
+    {
+     "id": "u04-v45",
+     "idn": "Februari",
+     "vi": "tháng Hai"
+    },
+    {
+     "id": "u04-v46",
+     "idn": "Maret",
+     "vi": "tháng Ba"
+    },
+    {
+     "id": "u04-v47",
+     "idn": "April",
+     "vi": "tháng Tư"
+    },
+    {
+     "id": "u04-v48",
+     "idn": "Mei",
+     "vi": "tháng Năm"
+    },
+    {
+     "id": "u04-v49",
+     "idn": "Juni",
+     "vi": "tháng Sáu"
+    },
+    {
+     "id": "u04-v50",
+     "idn": "Juli",
+     "vi": "tháng Bảy"
+    },
+    {
+     "id": "u04-v51",
+     "idn": "Agustus",
+     "vi": "tháng Tám"
+    },
+    {
+     "id": "u04-v52",
+     "idn": "September",
+     "vi": "tháng Chín"
+    },
+    {
+     "id": "u04-v53",
+     "idn": "Oktober",
+     "vi": "tháng Mười"
+    },
+    {
+     "id": "u04-v54",
+     "idn": "November",
+     "vi": "tháng Mười Một"
+    },
+    {
+     "id": "u04-v55",
+     "idn": "Desember",
+     "vi": "tháng Mười Hai"
+    },
+    {
+     "id": "u04-v56",
+     "idn": "kedua",
+     "vi": "thứ hai (số thứ tự)"
+    },
+    {
+     "id": "u04-v57",
+     "idn": "ketiga",
+     "vi": "thứ ba (số thứ tự)"
+    },
+    {
+     "id": "u04-v58",
+     "idn": "ke-23",
+     "vi": "thứ 23"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 4.1 — Ngày sinh của Ajeng",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Raden",
+       "idn": "Kapan kamu lahir, Ajeng?",
+       "vi": "Bạn sinh khi nào, Ajeng?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Aku lahir 16 September 1996.",
+       "vi": "Mình sinh ngày 16 tháng 9 năm 1996."
+      },
+      {
+       "who": "Raden",
+       "idn": "Kalau begitu, bulan depan ulang tahunmu?",
+       "vi": "Vậy tháng sau là sinh nhật bạn à?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Iya, benar. Apa kamu bisa datang ke pesta ulang tahunku?",
+       "vi": "Ừ, đúng. Bạn có đến dự tiệc sinh nhật của mình được không?"
+      },
+      {
+       "who": "Raden",
+       "idn": "Ya, tentu saja.",
+       "vi": "Được chứ, tất nhiên rồi."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/702BIPA_1_UMUM_AUDIO_4.1.mp3"
+    },
+    {
+     "title": "Audio 4.2 — Mời dự tiệc",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Nina",
+       "idn": "Raga, apa kamu bisa datang ke pesta ulang tahunku pada Minggu, 17 November?",
+       "vi": "Raga, bạn có đến dự tiệc sinh nhật của mình vào Chủ nhật 17 tháng 11 được không?"
+      },
+      {
+       "who": "Raga",
+       "idn": "Ya, tentu saja. Pukul berapa pestanya?",
+       "vi": "Được chứ. Tiệc lúc mấy giờ?"
+      },
+      {
+       "who": "Nina",
+       "idn": "Pukul 4 sore.",
+       "vi": "4 giờ chiều."
+      },
+      {
+       "who": "Raga",
+       "idn": "Di mana tempatnya?",
+       "vi": "Ở đâu vậy?"
+      },
+      {
+       "who": "Nina",
+       "idn": "Di Perumahan Batakan Asri Nomor 6.",
+       "vi": "Ở khu nhà Batakan Asri số 6."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/574BIPA_1_UMUM_AUDIO_4.2.mp3"
+    },
+    {
+     "title": "Teks 4.1 — Hadiah ulang tahun",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Nama saya Mega. Saya anak kedua dari tiga bersaudara.",
+       "vi": "Tên tôi là Mega. Tôi là con thứ hai trong ba anh chị em."
+      },
+      {
+       "idn": "Saya lahir pada tanggal 2 Mei 1996.",
+       "vi": "Tôi sinh ngày 2 tháng 5 năm 1996."
+      },
+      {
+       "idn": "Tahun ini saya merayakan ulang tahun yang ke-23 di restoran.",
+       "vi": "Năm nay tôi tổ chức sinh nhật lần thứ 23 ở nhà hàng."
+      },
+      {
+       "idn": "Teman-teman saya memberi hadiah sebuah jam tangan.",
+       "vi": "Các bạn tôi tặng một chiếc đồng hồ đeo tay."
+      },
+      {
+       "idn": "Keluarga saya memberi hadiah peralatan melukis.",
+       "vi": "Gia đình tôi tặng dụng cụ vẽ."
+      },
+      {
+       "idn": "Saat ini saya berkuliah di Jurusan Seni Lukis.",
+       "vi": "Hiện nay tôi học khoa Hội họa."
+      },
+      {
+       "idn": "Seandainya lulus kuliah nanti, saya ingin menjadi pelukis.",
+       "vi": "Giá như tốt nghiệp xong, tôi muốn trở thành họa sĩ."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "kapan: hỏi thời gian",
+     "body": "Dùng **kapan** để hỏi *khi nào*. Hỏi giờ dùng **Pukul berapa?**. Hỏi nơi dùng **di mana**.",
+     "examples": [
+      {
+       "idn": "Kapan kamu lahir? → Aku lahir 16 September 1996.",
+       "vi": "Bạn sinh khi nào? → Mình sinh ngày 16/9/1996."
+      },
+      {
+       "idn": "Pukul berapa pestanya? → Pukul 4 sore.",
+       "vi": "Tiệc lúc mấy giờ? → 4 giờ chiều."
+      },
+      {
+       "idn": "Di mana tempatnya?",
+       "vi": "Ở đâu vậy?"
+      }
+     ]
+    },
+    {
+     "title": "Số thứ tự và số đếm",
+     "body": "**ke-** + số tạo số thứ tự: *ke-23* (thứ 23). Các từ **kesatu, kedua, ketiga** là thứ nhất, thứ hai, thứ ba. Số đếm (kardinal): 1, 2, 3... 100.",
+     "examples": [
+      {
+       "idn": "Saya anak kedua dari tiga bersaudara.",
+       "vi": "Tôi là con thứ hai trong ba anh chị em."
+      },
+      {
+       "idn": "ulang tahun yang ke-23",
+       "vi": "sinh nhật lần thứ 23"
+      }
+     ]
+    },
+    {
+     "title": "Từ chỉ thời gian",
+     "body": "Cặp trái nghĩa: **lalu** là trước, **ini** là hiện tại, **depan** là sau. Dùng với *minggu* (tuần), *bulan* (tháng), *tahun* (năm). Ngày: **kemarin** (hôm qua), **hari ini**, **besok**, **lusa**.",
+     "examples": [
+      {
+       "idn": "Kemarin Lia mengirim undangan.",
+       "vi": "Hôm qua Lia gửi thiệp mời."
+      },
+      {
+       "idn": "Besok Lia akan membeli baju ulang tahun.",
+       "vi": "Ngày mai Lia sẽ mua váy sinh nhật."
+      },
+      {
+       "idn": "Bulan depan hari ulang tahun Lia.",
+       "vi": "Tháng sau là sinh nhật Lia."
+      },
+      {
+       "idn": "Tahun lalu, tahun ini, tahun depan",
+       "vi": "Năm ngoái, năm nay, năm sau"
+      }
+     ]
+    },
+    {
+     "title": "seandainya: giả định",
+     "body": "**Seandainya** dùng để nói điều giả định hoặc mong ước, nghĩa là *giá như, nếu như*.",
+     "examples": [
+      {
+       "idn": "Seandainya lulus kuliah, saya ingin menjadi pelukis.",
+       "vi": "Giá như tốt nghiệp, tôi muốn làm họa sĩ."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u04-x01",
+     "t": "mcq",
+     "q": "\"Kapan kamu lahir?\" hỏi về",
+     "opts": [
+      "Thời gian sinh",
+      "Nơi sinh",
+      "Tên",
+      "Nghề nghiệp"
+     ],
+     "a": 0,
+     "e": "kapan = khi nào."
+    },
+    {
+     "id": "u04-x02",
+     "t": "mcq",
+     "q": "\"Pukul berapa pestanya?\" hỏi về",
+     "opts": [
+      "Giờ",
+      "Địa điểm",
+      "Số người",
+      "Giá tiền"
+     ],
+     "a": 0,
+     "e": "pukul = giờ."
+    },
+    {
+     "id": "u04-x03",
+     "t": "mcq",
+     "q": "\"Di mana tempatnya?\" hỏi về",
+     "opts": [
+      "Địa điểm",
+      "Giờ",
+      "Người",
+      "Quà"
+     ],
+     "a": 0,
+     "e": "di mana = ở đâu."
+    },
+    {
+     "id": "u04-x04",
+     "t": "mcq",
+     "q": "\"besok\" nghĩa là",
+     "opts": [
+      "ngày mai",
+      "hôm qua",
+      "hôm nay",
+      "ngày kia"
+     ],
+     "a": 0,
+     "e": "besok = ngày mai."
+    },
+    {
+     "id": "u04-x05",
+     "t": "mcq",
+     "q": "\"kemarin\" nghĩa là",
+     "opts": [
+      "hôm qua",
+      "ngày mai",
+      "ngày kia",
+      "tuần trước"
+     ],
+     "a": 0,
+     "e": "kemarin = hôm qua."
+    },
+    {
+     "id": "u04-x06",
+     "t": "mcq",
+     "q": "\"bulan depan\" nghĩa là",
+     "opts": [
+      "tháng sau",
+      "tháng trước",
+      "tháng này",
+      "năm sau"
+     ],
+     "a": 0,
+     "e": "depan = sau, tới."
+    },
+    {
+     "id": "u04-x07",
+     "t": "mcq",
+     "q": "\"Rabu\" là thứ mấy?",
+     "opts": [
+      "Thứ Tư",
+      "Thứ Ba",
+      "Thứ Năm",
+      "Thứ Sáu"
+     ],
+     "a": 0,
+     "e": "Rabu = thứ Tư."
+    },
+    {
+     "id": "u04-x08",
+     "t": "mcq",
+     "q": "\"Minggu\" nghĩa là",
+     "opts": [
+      "Chủ nhật hoặc tuần",
+      "Tháng",
+      "Năm",
+      "Giờ"
+     ],
+     "a": 0,
+     "e": "Minggu vừa là Chủ nhật vừa là tuần."
+    },
+    {
+     "id": "u04-x09",
+     "t": "fill",
+     "q": "\"Agustus\" là tháng ___ (số)",
+     "a": [
+      "8",
+      "tám"
+     ],
+     "e": "Agustus = tháng 8."
+    },
+    {
+     "id": "u04-x10",
+     "t": "mcq",
+     "q": "Mega là con thứ mấy?",
+     "opts": [
+      "Thứ hai",
+      "Thứ nhất",
+      "Thứ ba",
+      "Con một"
+     ],
+     "a": 0,
+     "e": "anak kedua = con thứ hai."
+    },
+    {
+     "id": "u04-x11",
+     "t": "mcq",
+     "q": "Gia đình Mega tặng gì?",
+     "opts": [
+      "Dụng cụ vẽ",
+      "Đồng hồ",
+      "Sách",
+      "Điện thoại"
+     ],
+     "a": 0,
+     "e": "Bạn bè tặng đồng hồ, gia đình tặng dụng cụ vẽ."
+    },
+    {
+     "id": "u04-x12",
+     "t": "mcq",
+     "q": "\"hadiah\" nghĩa là",
+     "opts": [
+      "quà",
+      "thiệp mời",
+      "bữa tiệc",
+      "nhà hàng"
+     ],
+     "a": 0,
+     "e": "hadiah = quà."
+    },
+    {
+     "id": "u04-x13",
+     "t": "fill",
+     "q": "___ depan hari ulang tahun Lia. (tháng sau)",
+     "a": [
+      "Bulan"
+     ],
+     "e": "bulan depan = tháng sau."
+    },
+    {
+     "id": "u04-x14",
+     "t": "mcq",
+     "q": "\"Ya, tentu saja.\" nghĩa là",
+     "opts": [
+      "Được chứ, tất nhiên.",
+      "Không, cảm ơn.",
+      "Xin lỗi, tôi bận.",
+      "Hẹn gặp lại."
+     ],
+     "a": 0,
+     "e": "tentu saja = tất nhiên."
+    }
+   ],
+   "culture": {
+    "title": "Hỏi tuổi ở Indonesia",
+    "vi": "Khi làm quen, người Indonesia đôi khi hỏi tuổi để hiểu nhau hơn. Ở công sở, cấp trên hoặc đồng nghiệp lớn tuổi có thể hỏi tuổi để biết kinh nghiệm làm việc. Họ hàng lâu ngày gặp lại cũng hỏi tuổi, ví dụ ông hỏi cháu, chú hỏi cháu. Giữa bạn bè, hỏi tuổi là cách để thân thiết hơn. Đây là việc bình thường, không bị coi là thất lễ."
+   }
+  },
+  {
+   "id": "u05",
+   "num": 5,
+   "title": "Liburanku",
+   "vi_title": "Kỳ nghỉ của tôi",
+   "goals": [
+    "Nhận biết từ về hoạt động trong kỳ nghỉ",
+    "Nói và hỏi về kỳ nghỉ, mua sắm, giá cả",
+    "Hiểu tiền tố ber- và đọc bài kể về chuyến đi"
+   ],
+   "vocab": [
+    {
+     "id": "u05-v01",
+     "idn": "liburan",
+     "vi": "kỳ nghỉ, đi nghỉ"
+    },
+    {
+     "id": "u05-v02",
+     "idn": "berwisata",
+     "vi": "đi du lịch",
+     "note": "ber- + wisata"
+    },
+    {
+     "id": "u05-v03",
+     "idn": "tempat wisata",
+     "vi": "địa điểm du lịch"
+    },
+    {
+     "id": "u05-v04",
+     "idn": "mau",
+     "vi": "muốn; sẽ"
+    },
+    {
+     "id": "u05-v05",
+     "idn": "ke mana",
+     "vi": "đi đâu"
+    },
+    {
+     "id": "u05-v06",
+     "idn": "menarik",
+     "vi": "hấp dẫn, thú vị"
+    },
+    {
+     "id": "u05-v07",
+     "idn": "pulau",
+     "vi": "đảo"
+    },
+    {
+     "id": "u05-v08",
+     "idn": "air terjun",
+     "vi": "thác nước"
+    },
+    {
+     "id": "u05-v09",
+     "idn": "gua",
+     "vi": "hang động"
+    },
+    {
+     "id": "u05-v10",
+     "idn": "desa",
+     "vi": "làng"
+    },
+    {
+     "id": "u05-v11",
+     "idn": "rumah adat",
+     "vi": "nhà truyền thống"
+    },
+    {
+     "id": "u05-v12",
+     "idn": "berbentuk kerucut",
+     "vi": "có hình nón"
+    },
+    {
+     "id": "u05-v13",
+     "idn": "menyenangkan",
+     "vi": "vui, dễ chịu"
+    },
+    {
+     "id": "u05-v14",
+     "idn": "jernih",
+     "vi": "trong (nước)"
+    },
+    {
+     "id": "u05-v15",
+     "idn": "kolam",
+     "vi": "hồ, ao"
+    },
+    {
+     "id": "u05-v16",
+     "idn": "biru",
+     "vi": "xanh dương"
+    },
+    {
+     "id": "u05-v17",
+     "idn": "berwarna",
+     "vi": "có màu"
+    },
+    {
+     "id": "u05-v18",
+     "idn": "permisi",
+     "vi": "xin phép, cho hỏi"
+    },
+    {
+     "id": "u05-v19",
+     "idn": "silakan",
+     "vi": "xin mời, cứ tự nhiên"
+    },
+    {
+     "id": "u05-v20",
+     "idn": "ya, silakan",
+     "vi": "vâng, xin mời"
+    },
+    {
+     "id": "u05-v21",
+     "idn": "terima kasih",
+     "vi": "cảm ơn"
+    },
+    {
+     "id": "u05-v22",
+     "idn": "sama-sama",
+     "vi": "không có gì"
+    },
+    {
+     "id": "u05-v23",
+     "idn": "beli",
+     "vi": "mua"
+    },
+    {
+     "id": "u05-v24",
+     "idn": "berbelanja",
+     "vi": "mua sắm"
+    },
+    {
+     "id": "u05-v25",
+     "idn": "oleh-oleh",
+     "vi": "quà mang về"
+    },
+    {
+     "id": "u05-v26",
+     "idn": "roti",
+     "vi": "bánh mì"
+    },
+    {
+     "id": "u05-v27",
+     "idn": "bungkus",
+     "vi": "gói"
+    },
+    {
+     "id": "u05-v28",
+     "idn": "harga",
+     "vi": "giá"
+    },
+    {
+     "id": "u05-v29",
+     "idn": "berapa",
+     "vi": "bao nhiêu"
+    },
+    {
+     "id": "u05-v30",
+     "idn": "berapa harganya?",
+     "vi": "giá bao nhiêu?"
+    },
+    {
+     "id": "u05-v31",
+     "idn": "ribu",
+     "vi": "nghìn"
+    },
+    {
+     "id": "u05-v32",
+     "idn": "rupiah",
+     "vi": "rupiah (tiền Indonesia)"
+    },
+    {
+     "id": "u05-v33",
+     "idn": "uang",
+     "vi": "tiền"
+    },
+    {
+     "id": "u05-v34",
+     "idn": "ini uangnya",
+     "vi": "đây là tiền"
+    },
+    {
+     "id": "u05-v35",
+     "idn": "bagaimana",
+     "vi": "thế nào"
+    },
+    {
+     "id": "u05-v36",
+     "idn": "berjalan kaki",
+     "vi": "đi bộ"
+    },
+    {
+     "id": "u05-v37",
+     "idn": "berkeliling",
+     "vi": "đi quanh, dạo quanh"
+    },
+    {
+     "id": "u05-v38",
+     "idn": "menginap",
+     "vi": "ở lại qua đêm"
+    },
+    {
+     "id": "u05-v39",
+     "idn": "berfoto",
+     "vi": "chụp ảnh"
+    },
+    {
+     "id": "u05-v40",
+     "idn": "berbaju",
+     "vi": "mặc áo"
+    },
+    {
+     "id": "u05-v41",
+     "idn": "bercuaca",
+     "vi": "có thời tiết"
+    },
+    {
+     "id": "u05-v42",
+     "idn": "cuaca",
+     "vi": "thời tiết"
+    },
+    {
+     "id": "u05-v43",
+     "idn": "dingin",
+     "vi": "lạnh"
+    },
+    {
+     "id": "u05-v44",
+     "idn": "tebal",
+     "vi": "dày"
+    },
+    {
+     "id": "u05-v45",
+     "idn": "kopi",
+     "vi": "cà phê"
+    },
+    {
+     "id": "u05-v46",
+     "idn": "gurih",
+     "vi": "béo ngậy, đậm vị"
+    },
+    {
+     "id": "u05-v47",
+     "idn": "wangi",
+     "vi": "thơm"
+    },
+    {
+     "id": "u05-v48",
+     "idn": "sedap",
+     "vi": "ngon, thơm ngon"
+    },
+    {
+     "id": "u05-v49",
+     "idn": "pulang",
+     "vi": "về"
+    },
+    {
+     "id": "u05-v50",
+     "idn": "malam hari",
+     "vi": "buổi tối"
+    },
+    {
+     "id": "u05-v51",
+     "idn": "esoknya",
+     "vi": "ngày hôm sau"
+    },
+    {
+     "id": "u05-v52",
+     "idn": "hari berikutnya",
+     "vi": "ngày tiếp theo"
+    },
+    {
+     "id": "u05-v53",
+     "idn": "sebelum",
+     "vi": "trước khi"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 5.1 — Kế hoạch nghỉ lễ",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Raden",
+       "idn": "Ajeng, bulan depan mau liburan ke mana?",
+       "vi": "Ajeng, tháng sau bạn định đi nghỉ ở đâu?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Aku mau berwisata ke Labuan Bajo.",
+       "vi": "Mình định đi du lịch Labuan Bajo."
+      },
+      {
+       "who": "Raden",
+       "idn": "Di mana itu?",
+       "vi": "Nó ở đâu vậy?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Labuan Bajo ada di Nusa Tenggara Timur.",
+       "vi": "Labuan Bajo ở Nusa Tenggara Timur."
+      },
+      {
+       "who": "Raden",
+       "idn": "Apa saja tempat wisata menarik di sana?",
+       "vi": "Ở đó có những địa điểm hấp dẫn nào?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Ada Pulau Kanawa, Air Terjun Cunca Wulang, Wae Rebo, dan Gua Rangko.",
+       "vi": "Có đảo Kanawa, thác Cunca Wulang, Wae Rebo và hang Rangko."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/660BIPA_1_UMUM_AUDIO_5.1.mp3"
+    },
+    {
+     "title": "Audio 5.2 — Mua bánh",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Ajeng",
+       "idn": "Permisi, Pak.",
+       "vi": "Xin lỗi, cho cháu hỏi."
+      },
+      {
+       "who": "Pedagang",
+       "idn": "Ya, silakan.",
+       "vi": "Vâng, mời cô."
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Saya mau beli roti kompiang.",
+       "vi": "Cháu muốn mua bánh kompiang."
+      },
+      {
+       "who": "Pedagang",
+       "idn": "Berapa bungkus?",
+       "vi": "Mấy gói?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Empat bungkus saja. Berapa harganya, Pak?",
+       "vi": "Chỉ bốn gói thôi. Giá bao nhiêu ạ?"
+      },
+      {
+       "who": "Pedagang",
+       "idn": "Lima puluh ribu rupiah.",
+       "vi": "Năm mươi nghìn rupiah."
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Ini uangnya, Pak. Terima kasih.",
+       "vi": "Đây là tiền ạ. Cảm ơn bác."
+      },
+      {
+       "who": "Pedagang",
+       "idn": "Sama-sama.",
+       "vi": "Không có gì."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/491BIPA_1_UMUM_AUDIO_5.2.mp3"
+    },
+    {
+     "title": "Dialog 5.1 — Sau chuyến đi",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Putri",
+       "idn": "Bagaimana liburanmu di Labuan Bajo, Ajeng?",
+       "vi": "Kỳ nghỉ của bạn ở Labuan Bajo thế nào, Ajeng?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Liburanku menyenangkan.",
+       "vi": "Kỳ nghỉ của mình rất vui."
+      },
+      {
+       "who": "Putri",
+       "idn": "Apa kamu mengunjungi Gua Rangko?",
+       "vi": "Bạn có đến thăm hang Rangko không?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Ya, tentu saja.",
+       "vi": "Có chứ, tất nhiên."
+      },
+      {
+       "who": "Putri",
+       "idn": "Bagaimana tempatnya?",
+       "vi": "Nơi đó thế nào?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Tempatnya berkolam jernih. Airnya berwarna biru.",
+       "vi": "Ở đó có hồ nước trong. Nước có màu xanh."
+      }
+     ]
+    },
+    {
+     "title": "Teks 5.1 — Du lịch Wae Rebo",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Bulan lalu, saya dan Anjani berwisata ke Wae Rebo, Nusa Tenggara Timur.",
+       "vi": "Tháng trước, tôi và Anjani đi du lịch Wae Rebo, Nusa Tenggara Timur."
+      },
+      {
+       "idn": "Kami berdua tiba di Nusa Tenggara Timur pada malam hari.",
+       "vi": "Hai chúng tôi đến Nusa Tenggara Timur vào buổi tối."
+      },
+      {
+       "idn": "Esoknya, kami berjalan kaki menuju desa Wae Rebo selama empat jam.",
+       "vi": "Hôm sau, chúng tôi đi bộ đến làng Wae Rebo trong bốn tiếng."
+      },
+      {
+       "idn": "Di sana ada tujuh rumah adat berbentuk kerucut.",
+       "vi": "Ở đó có bảy ngôi nhà truyền thống hình nón."
+      },
+      {
+       "idn": "Kami menginap di rumah adat itu.",
+       "vi": "Chúng tôi ngủ lại trong nhà truyền thống đó."
+      },
+      {
+       "idn": "Hari berikutnya, kami berkeliling di desa Wae Rebo.",
+       "vi": "Ngày tiếp theo, chúng tôi đi dạo quanh làng."
+      },
+      {
+       "idn": "Desa ini bercuaca dingin. Kami berbaju tebal.",
+       "vi": "Làng này thời tiết lạnh. Chúng tôi mặc áo dày."
+      },
+      {
+       "idn": "Sebelum pulang, kami berbelanja oleh-oleh.",
+       "vi": "Trước khi về, chúng tôi mua quà."
+      },
+      {
+       "idn": "Kami membeli roti kompiang dan kopi Flores.",
+       "vi": "Chúng tôi mua bánh kompiang và cà phê Flores."
+      },
+      {
+       "idn": "Roti kompiang bertabur wijen dan berasa gurih.",
+       "vi": "Bánh kompiang rắc mè và có vị béo ngậy."
+      },
+      {
+       "idn": "Kopi Flores beraroma sedap dan wangi.",
+       "vi": "Cà phê Flores có hương thơm ngon."
+      },
+      {
+       "idn": "Malam harinya, kami pulang ke Jakarta.",
+       "vi": "Tối hôm đó, chúng tôi về Jakarta."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Tiền tố ber-: bốn nghĩa thường gặp",
+     "body": "Gắn **ber-** vào từ gốc để tạo động từ hoặc cụm. Nghĩa thay đổi theo từ:\n1. **Thực hiện** hành động: *wisata* → *berwisata* (đi du lịch), *belanja* → *berbelanja* (mua sắm), *foto* → *berfoto* (chụp ảnh).\n2. **Có**, sở hữu: *kolam* → *berkolam* (có hồ), *warna* → *berwarna* (có màu).\n3. **Số lượng**: *dua* → *berdua* (hai người).\n4. **Mặc, mang**: *baju* → *berbaju* (mặc áo).",
+     "examples": [
+      {
+       "idn": "Aku mau berwisata ke Labuan Bajo.",
+       "vi": "Mình định đi du lịch Labuan Bajo. (thực hiện)"
+      },
+      {
+       "idn": "Tempatnya berkolam jernih.",
+       "vi": "Nơi đó có hồ nước trong. (có)"
+      },
+      {
+       "idn": "Kami berdua tiba pada malam hari.",
+       "vi": "Hai chúng tôi đến vào buổi tối. (số lượng)"
+      },
+      {
+       "idn": "Kami berbaju tebal.",
+       "vi": "Chúng tôi mặc áo dày. (mặc)"
+      }
+     ]
+    },
+    {
+     "title": "permisi, silakan, terima kasih",
+     "body": "**Permisi** dùng để xin phép hoặc gây chú ý, đáp lại là **silakan** (mời). **Terima kasih** là cảm ơn, đáp lại là **sama-sama**.",
+     "examples": [
+      {
+       "idn": "Permisi, Pak. → Ya, silakan.",
+       "vi": "Xin lỗi, thưa bác. → Vâng, mời."
+      },
+      {
+       "idn": "Terima kasih. → Sama-sama.",
+       "vi": "Cảm ơn. → Không có gì."
+      }
+     ]
+    },
+    {
+     "title": "berapa và bagaimana",
+     "body": "**Berapa** hỏi số lượng hoặc giá. **Bagaimana** hỏi trạng thái hoặc cách thức.",
+     "examples": [
+      {
+       "idn": "Berapa bungkus? → Empat bungkus saja.",
+       "vi": "Mấy gói? → Chỉ bốn gói thôi."
+      },
+      {
+       "idn": "Berapa harganya? → Lima puluh ribu rupiah.",
+       "vi": "Giá bao nhiêu? → Năm mươi nghìn rupiah."
+      },
+      {
+       "idn": "Bagaimana liburanmu? → Menyenangkan.",
+       "vi": "Kỳ nghỉ của bạn thế nào? → Rất vui."
+      }
+     ]
+    },
+    {
+     "title": "Từ chỉ trình tự thời gian",
+     "body": "Dùng để kể chuyện theo trình tự: **esoknya** (hôm sau), **hari berikutnya** (ngày tiếp theo), **malam harinya** (tối hôm đó), **sebelum pulang** (trước khi về).",
+     "examples": [
+      {
+       "idn": "Esoknya, kami berjalan kaki.",
+       "vi": "Hôm sau, chúng tôi đi bộ."
+      },
+      {
+       "idn": "Malam harinya, kami pulang ke Jakarta.",
+       "vi": "Tối hôm đó, chúng tôi về Jakarta."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u05-x01",
+     "t": "mcq",
+     "q": "\"Aku mau berwisata ke Labuan Bajo.\" nghĩa là",
+     "opts": [
+      "Mình định đi du lịch Labuan Bajo.",
+      "Mình đã ở Labuan Bajo.",
+      "Mình sống ở Labuan Bajo.",
+      "Mình bán đồ ở Labuan Bajo."
+     ],
+     "a": 0,
+     "e": "berwisata = đi du lịch."
+    },
+    {
+     "id": "u05-x02",
+     "t": "mcq",
+     "q": "\"berkolam\" nghĩa là",
+     "opts": [
+      "có hồ",
+      "đi bơi",
+      "làm hồ",
+      "màu hồ"
+     ],
+     "a": 0,
+     "e": "ber- + kolam = có hồ."
+    },
+    {
+     "id": "u05-x03",
+     "t": "mcq",
+     "q": "\"berbaju tebal\" nghĩa là",
+     "opts": [
+      "mặc áo dày",
+      "mua áo dày",
+      "bán áo dày",
+      "có áo mỏng"
+     ],
+     "a": 0,
+     "e": "ber- + baju = mặc áo."
+    },
+    {
+     "id": "u05-x04",
+     "t": "mcq",
+     "q": "\"berdua\" nghĩa là",
+     "opts": [
+      "hai người",
+      "hai lần",
+      "hai cái",
+      "bằng hai tay"
+     ],
+     "a": 0,
+     "e": "ber- + dua = hai (người)."
+    },
+    {
+     "id": "u05-x05",
+     "t": "mcq",
+     "q": "Đáp lại \"Terima kasih.\"",
+     "opts": [
+      "Sama-sama.",
+      "Permisi.",
+      "Silakan.",
+      "Maaf."
+     ],
+     "a": 0,
+     "e": "sama-sama = không có gì."
+    },
+    {
+     "id": "u05-x06",
+     "t": "mcq",
+     "q": "Đáp lại \"Permisi, Pak.\"",
+     "opts": [
+      "Ya, silakan.",
+      "Sama-sama.",
+      "Sampai jumpa.",
+      "Baik."
+     ],
+     "a": 0,
+     "e": "silakan = mời."
+    },
+    {
+     "id": "u05-x07",
+     "t": "fill",
+     "q": "___ harganya? (giá bao nhiêu?)",
+     "a": [
+      "Berapa"
+     ],
+     "e": "berapa = bao nhiêu."
+    },
+    {
+     "id": "u05-x08",
+     "t": "mcq",
+     "q": "\"Lima puluh ribu rupiah\" là",
+     "opts": [
+      "50.000 rupiah",
+      "5.000 rupiah",
+      "500.000 rupiah",
+      "15.000 rupiah"
+     ],
+     "a": 0,
+     "e": "lima puluh = 50, ribu = nghìn."
+    },
+    {
+     "id": "u05-x09",
+     "t": "mcq",
+     "q": "Ajeng mua mấy gói bánh?",
+     "opts": [
+      "Bốn gói",
+      "Hai gói",
+      "Năm gói",
+      "Mười gói"
+     ],
+     "a": 0,
+     "e": "Empat bungkus."
+    },
+    {
+     "id": "u05-x10",
+     "t": "mcq",
+     "q": "Labuan Bajo ở đâu?",
+     "opts": [
+      "Nusa Tenggara Timur",
+      "Bali",
+      "Jakarta",
+      "Yogyakarta"
+     ],
+     "a": 0,
+     "e": "Theo Audio 5.1."
+    },
+    {
+     "id": "u05-x11",
+     "t": "mcq",
+     "q": "Wae Rebo có bao nhiêu nhà truyền thống?",
+     "opts": [
+      "Bảy",
+      "Năm",
+      "Mười",
+      "Ba"
+     ],
+     "a": 0,
+     "e": "tujuh rumah adat."
+    },
+    {
+     "id": "u05-x12",
+     "t": "mcq",
+     "q": "Thời tiết ở Wae Rebo thế nào?",
+     "opts": [
+      "Lạnh",
+      "Nóng",
+      "Mưa",
+      "Khô"
+     ],
+     "a": 0,
+     "e": "dingin = lạnh."
+    },
+    {
+     "id": "u05-x13",
+     "t": "fill",
+     "q": "Hôm sau (một từ): ___nya",
+     "a": [
+      "esok"
+     ],
+     "e": "esoknya = hôm sau."
+    },
+    {
+     "id": "u05-x14",
+     "t": "mcq",
+     "q": "\"oleh-oleh\" nghĩa là",
+     "opts": [
+      "quà mang về",
+      "đồ ăn sáng",
+      "hành lý",
+      "vé"
+     ],
+     "a": 0,
+     "e": "oleh-oleh = quà mang về từ chuyến đi."
+    }
+   ],
+   "culture": {
+    "title": "Các loại hình du lịch ở Indonesia",
+    "vi": "Người Indonesia thích **du lịch thiên nhiên**: Raja Ampat (Papua), núi Rinjani (Lombok), quần đảo Belitung, núi Bromo (Đông Java), công viên biển Bunaken (Bắc Sulawesi), hồ Toba (Bắc Sumatra). **Du lịch tâm linh, văn hóa**: đền Borobudur, Prambanan, đền Tanah Lot, nhà thờ Hồi giáo Istiqlal. **Du lịch mua sắm**: chợ Tanah Abang (Jakarta), chợ Beringharjo (Yogyakarta). **Du lịch học hỏi**: Taman Mini Indonesia Indah, Taman Pintar, Kota Tua."
+   }
+  },
+  {
+   "id": "u06",
+   "num": 6,
+   "title": "Aktivitas Harianku",
+   "vi_title": "Hoạt động hằng ngày",
+   "goals": [
+    "Nhận biết từ về hoạt động hằng ngày",
+    "Kể và hỏi đáp về sinh hoạt hằng ngày, giờ giấc",
+    "Dùng từ chỉ tần suất và sudah, belum, akan, sedang"
+   ],
+   "vocab": [
+    {
+     "id": "u06-v01",
+     "idn": "bangun tidur",
+     "vi": "thức dậy"
+    },
+    {
+     "id": "u06-v02",
+     "idn": "bangun",
+     "vi": "thức dậy; dậy"
+    },
+    {
+     "id": "u06-v03",
+     "idn": "bangun siang",
+     "vi": "dậy muộn"
+    },
+    {
+     "id": "u06-v04",
+     "idn": "mandi",
+     "vi": "tắm"
+    },
+    {
+     "id": "u06-v05",
+     "idn": "gosok gigi",
+     "vi": "đánh răng"
+    },
+    {
+     "id": "u06-v06",
+     "idn": "sarapan",
+     "vi": "ăn sáng"
+    },
+    {
+     "id": "u06-v07",
+     "idn": "makan siang",
+     "vi": "ăn trưa"
+    },
+    {
+     "id": "u06-v08",
+     "idn": "makan malam",
+     "vi": "ăn tối"
+    },
+    {
+     "id": "u06-v09",
+     "idn": "makan camilan",
+     "vi": "ăn vặt"
+    },
+    {
+     "id": "u06-v10",
+     "idn": "tidur siang",
+     "vi": "ngủ trưa"
+    },
+    {
+     "id": "u06-v11",
+     "idn": "mencuci baju",
+     "vi": "giặt quần áo"
+    },
+    {
+     "id": "u06-v12",
+     "idn": "mencuci piring",
+     "vi": "rửa bát"
+    },
+    {
+     "id": "u06-v13",
+     "idn": "menjemur",
+     "vi": "phơi"
+    },
+    {
+     "id": "u06-v14",
+     "idn": "masak",
+     "vi": "nấu ăn"
+    },
+    {
+     "id": "u06-v15",
+     "idn": "baca buku",
+     "vi": "đọc sách"
+    },
+    {
+     "id": "u06-v16",
+     "idn": "membaca",
+     "vi": "đọc"
+    },
+    {
+     "id": "u06-v17",
+     "idn": "menonton",
+     "vi": "xem"
+    },
+    {
+     "id": "u06-v18",
+     "idn": "bersepeda",
+     "vi": "đạp xe"
+    },
+    {
+     "id": "u06-v19",
+     "idn": "berbelanja",
+     "vi": "đi chợ, mua sắm"
+    },
+    {
+     "id": "u06-v20",
+     "idn": "bekerja",
+     "vi": "làm việc"
+    },
+    {
+     "id": "u06-v21",
+     "idn": "beristirahat",
+     "vi": "nghỉ ngơi"
+    },
+    {
+     "id": "u06-v22",
+     "idn": "salat",
+     "vi": "cầu nguyện (Hồi giáo)"
+    },
+    {
+     "id": "u06-v23",
+     "idn": "berpakaian",
+     "vi": "mặc quần áo"
+    },
+    {
+     "id": "u06-v24",
+     "idn": "pulang",
+     "vi": "về nhà"
+    },
+    {
+     "id": "u06-v25",
+     "idn": "pasar",
+     "vi": "chợ"
+    },
+    {
+     "id": "u06-v26",
+     "idn": "kantor",
+     "vi": "văn phòng"
+    },
+    {
+     "id": "u06-v27",
+     "idn": "kantin",
+     "vi": "căng tin"
+    },
+    {
+     "id": "u06-v28",
+     "idn": "televisi",
+     "vi": "ti vi"
+    },
+    {
+     "id": "u06-v29",
+     "idn": "buku",
+     "vi": "sách"
+    },
+    {
+     "id": "u06-v30",
+     "idn": "bioskop",
+     "vi": "rạp chiếu phim"
+    },
+    {
+     "id": "u06-v31",
+     "idn": "macet",
+     "vi": "tắc đường"
+    },
+    {
+     "id": "u06-v32",
+     "idn": "kampus",
+     "vi": "khuôn viên đại học"
+    },
+    {
+     "id": "u06-v33",
+     "idn": "akhir pekan",
+     "vi": "cuối tuần"
+    },
+    {
+     "id": "u06-v34",
+     "idn": "rajin",
+     "vi": "chăm chỉ"
+    },
+    {
+     "id": "u06-v35",
+     "idn": "malas",
+     "vi": "lười"
+    },
+    {
+     "id": "u06-v36",
+     "idn": "pelajaran",
+     "vi": "bài học"
+    },
+    {
+     "id": "u06-v37",
+     "idn": "cermat",
+     "vi": "cẩn thận, kỹ lưỡng"
+    },
+    {
+     "id": "u06-v38",
+     "idn": "setelah itu",
+     "vi": "sau đó"
+    },
+    {
+     "id": "u06-v39",
+     "idn": "lalu",
+     "vi": "rồi"
+    },
+    {
+     "id": "u06-v40",
+     "idn": "kemudian",
+     "vi": "sau đó, tiếp theo"
+    },
+    {
+     "id": "u06-v41",
+     "idn": "setelahnya",
+     "vi": "sau đó"
+    },
+    {
+     "id": "u06-v42",
+     "idn": "sorenya",
+     "vi": "buổi chiều hôm đó"
+    },
+    {
+     "id": "u06-v43",
+     "idn": "sebelum itu",
+     "vi": "trước đó"
+    },
+    {
+     "id": "u06-v44",
+     "idn": "pukul",
+     "vi": "giờ"
+    },
+    {
+     "id": "u06-v45",
+     "idn": "biasanya",
+     "vi": "thường thường"
+    },
+    {
+     "id": "u06-v46",
+     "idn": "selalu",
+     "vi": "luôn luôn"
+    },
+    {
+     "id": "u06-v47",
+     "idn": "sering",
+     "vi": "thường"
+    },
+    {
+     "id": "u06-v48",
+     "idn": "kadang-kadang",
+     "vi": "thỉnh thoảng"
+    },
+    {
+     "id": "u06-v49",
+     "idn": "jarang",
+     "vi": "hiếm khi"
+    },
+    {
+     "id": "u06-v50",
+     "idn": "tidak pernah",
+     "vi": "không bao giờ"
+    },
+    {
+     "id": "u06-v51",
+     "idn": "agak",
+     "vi": "hơi, khá"
+    },
+    {
+     "id": "u06-v52",
+     "idn": "sudah",
+     "vi": "đã"
+    },
+    {
+     "id": "u06-v53",
+     "idn": "belum",
+     "vi": "chưa"
+    },
+    {
+     "id": "u06-v54",
+     "idn": "akan",
+     "vi": "sẽ"
+    },
+    {
+     "id": "u06-v55",
+     "idn": "sedang",
+     "vi": "đang"
+    },
+    {
+     "id": "u06-v56",
+     "idn": "tengah malam",
+     "vi": "nửa đêm"
+    },
+    {
+     "id": "u06-v57",
+     "idn": "setengah dua",
+     "vi": "một giờ rưỡi",
+     "note": "01.30"
+    },
+    {
+     "id": "u06-v58",
+     "idn": "dua kurang lima belas",
+     "vi": "hai giờ kém mười lăm",
+     "note": "01.45"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 6 — Chủ nhật của Rani",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Setiap hari Minggu saya bangun siang.",
+       "vi": "Chủ nhật nào tôi cũng dậy muộn."
+      },
+      {
+       "idn": "Setelah itu, saya mandi.",
+       "vi": "Sau đó, tôi tắm."
+      },
+      {
+       "idn": "Saya lalu membaca buku.",
+       "vi": "Rồi tôi đọc sách."
+      },
+      {
+       "idn": "Saya juga makan camilan.",
+       "vi": "Tôi cũng ăn vặt."
+      },
+      {
+       "idn": "Saya mencuci baju. Sebelum itu, saya berbelanja di pasar.",
+       "vi": "Tôi giặt quần áo. Trước đó, tôi đi chợ."
+      },
+      {
+       "idn": "Setelah itu, saya masak.",
+       "vi": "Sau đó, tôi nấu ăn."
+      },
+      {
+       "idn": "Kemudian, saya makan siang. Saya juga tidur siang.",
+       "vi": "Rồi tôi ăn trưa. Tôi cũng ngủ trưa."
+      },
+      {
+       "idn": "Sore hari saya bersepeda berkeliling kampung.",
+       "vi": "Buổi chiều tôi đạp xe vòng quanh làng."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/896BIPA_1_UMUM_AUDIO_6.mp3"
+    },
+    {
+     "title": "Teks 6.1 — Ngày thường của Dina",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Hai, saya Dina. Saya akan bercerita tentang kegiatan harian saya.",
+       "vi": "Chào, tôi là Dina. Tôi sẽ kể về sinh hoạt hằng ngày của tôi."
+      },
+      {
+       "idn": "Pada pagi hari biasanya saya bangun pukul 05.00.",
+       "vi": "Buổi sáng tôi thường dậy lúc 5 giờ."
+      },
+      {
+       "idn": "Setelah salat subuh, saya mandi dan berpakaian kerja.",
+       "vi": "Sau khi cầu nguyện buổi sớm, tôi tắm và mặc đồ đi làm."
+      },
+      {
+       "idn": "Saya sarapan sekitar pukul 06.00.",
+       "vi": "Tôi ăn sáng khoảng 6 giờ."
+      },
+      {
+       "idn": "Saya bekerja pada pukul 08.00 sampai 16.00.",
+       "vi": "Tôi làm việc từ 8 giờ đến 16 giờ."
+      },
+      {
+       "idn": "Saya selalu makan siang di kantin pukul 12.00 sampai 13.00.",
+       "vi": "Tôi luôn ăn trưa ở căng tin từ 12 giờ đến 13 giờ."
+      },
+      {
+       "idn": "Selesai bekerja, saya langsung pulang ke rumah.",
+       "vi": "Làm xong, tôi về nhà ngay."
+      },
+      {
+       "idn": "Jika jalanan macet, kadang-kadang saya sampai di rumah pukul 18.00.",
+       "vi": "Nếu đường tắc, đôi khi tôi về đến nhà lúc 18 giờ."
+      },
+      {
+       "idn": "Saya agak malas makan malam. Jadi, saya menonton televisi atau membaca buku.",
+       "vi": "Tôi hơi lười ăn tối. Nên tôi xem ti vi hoặc đọc sách."
+      },
+      {
+       "idn": "Lalu, saya tidur sekitar pukul 22.00.",
+       "vi": "Rồi tôi ngủ khoảng 22 giờ."
+      },
+      {
+       "idn": "Pada akhir pekan saya sering pergi menonton film di bioskop.",
+       "vi": "Cuối tuần tôi thường đi xem phim ở rạp."
+      },
+      {
+       "idn": "Saya jarang ada di rumah.",
+       "vi": "Tôi hiếm khi ở nhà."
+      }
+     ]
+    },
+    {
+     "title": "Teks 6.2 — Em gái Santi",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Adik Santi sangat rajin. Namanya Lisa.",
+       "vi": "Em gái Santi rất chăm chỉ. Tên em là Lisa."
+      },
+      {
+       "idn": "Ia sudah bangun pada pukul 04.00.",
+       "vi": "Em đã dậy lúc 4 giờ."
+      },
+      {
+       "idn": "Setiap pukul 04.30 pagi dia akan membangunkan Santi.",
+       "vi": "Cứ 4 giờ 30 sáng em sẽ đánh thức Santi."
+      },
+      {
+       "idn": "Pada pukul 06.30 Lisa sudah sampai di kampus.",
+       "vi": "Lúc 6 giờ 30 Lisa đã đến trường đại học."
+      },
+      {
+       "idn": "Ketika dosen sedang menerangkan pelajaran, Lisa akan mendengarkan dengan cermat.",
+       "vi": "Khi giảng viên đang giảng bài, Lisa sẽ lắng nghe cẩn thận."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Từ nối chỉ trình tự",
+     "body": "Dùng để kể theo thứ tự thời gian: **setelah itu**, **lalu**, **kemudian**, **setelahnya**, **sorenya**, **sebelum itu**.",
+     "examples": [
+      {
+       "idn": "Setelah itu, saya mandi.",
+       "vi": "Sau đó, tôi tắm."
+      },
+      {
+       "idn": "Saya lalu membaca buku.",
+       "vi": "Rồi tôi đọc sách."
+      },
+      {
+       "idn": "Kemudian, saya makan siang.",
+       "vi": "Sau đó, tôi ăn trưa."
+      }
+     ]
+    },
+    {
+     "title": "Tiền tố meng-: tạo động từ chủ động",
+     "body": "Gắn **meng-** (biến thành *men-, mem-, meny-, menge-, me-* tùy chữ cái đầu của từ gốc) vào từ gốc để tạo động từ chủ động.",
+     "examples": [
+      {
+       "idn": "tonton → menonton",
+       "vi": "xem"
+      },
+      {
+       "idn": "baca → membaca",
+       "vi": "đọc"
+      },
+      {
+       "idn": "cuci → mencuci",
+       "vi": "rửa, giặt"
+      }
+     ]
+    },
+    {
+     "title": "Tần suất: seberapa sering?",
+     "body": "Từ nhiều đến ít: **selalu** (luôn luôn), **biasanya** (thường thường), **sering** (thường), **kadang-kadang** (thỉnh thoảng), **jarang** (hiếm khi), **tidak pernah** (không bao giờ). **Agak** là *hơi*.",
+     "examples": [
+      {
+       "idn": "Saya selalu makan siang di kantin.",
+       "vi": "Tôi luôn ăn trưa ở căng tin."
+      },
+      {
+       "idn": "Saya jarang ada di rumah.",
+       "vi": "Tôi hiếm khi ở nhà."
+      },
+      {
+       "idn": "Saya tidak pernah lupa salat.",
+       "vi": "Tôi không bao giờ quên cầu nguyện."
+      }
+     ]
+    },
+    {
+     "title": "sudah, belum, akan, sedang",
+     "body": "Chỉ trạng thái thời gian của hành động. **Sudah**: đã xong. **Belum**: chưa. **Akan**: sắp, sẽ. **Sedang**: đang diễn ra.",
+     "examples": [
+      {
+       "idn": "Lisa sudah sampai di kampus.",
+       "vi": "Lisa đã đến trường."
+      },
+      {
+       "idn": "Semua orang belum bangun.",
+       "vi": "Mọi người chưa dậy."
+      },
+      {
+       "idn": "Dia akan membangunkan Santi.",
+       "vi": "Cô ấy sẽ đánh thức Santi."
+      },
+      {
+       "idn": "Dosen sedang menerangkan pelajaran.",
+       "vi": "Giảng viên đang giảng bài."
+      }
+     ]
+    },
+    {
+     "title": "Nói giờ: pukul",
+     "body": "Dùng **pukul** + giờ. Thêm *pagi, siang, sore, malam* để nói buổi. **Setengah** là *rưỡi* (nói giờ trước: *setengah dua* = 1:30, tức một nửa trước giờ hai). **Kurang** là *kém*, **lebih** là *hơn*.",
+     "examples": [
+      {
+       "idn": "01.00 satu pagi",
+       "vi": "1 giờ sáng"
+      },
+      {
+       "idn": "01.05 satu lebih lima menit",
+       "vi": "1 giờ 5 phút"
+      },
+      {
+       "idn": "01.30 setengah dua",
+       "vi": "1 giờ rưỡi"
+      },
+      {
+       "idn": "01.45 dua kurang lima belas",
+       "vi": "2 giờ kém 15"
+      },
+      {
+       "idn": "12.00 dua belas siang",
+       "vi": "12 giờ trưa"
+      },
+      {
+       "idn": "23.00 sebelas malam",
+       "vi": "11 giờ đêm"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u06-x01",
+     "t": "mcq",
+     "q": "\"bangun tidur\" nghĩa là",
+     "opts": [
+      "thức dậy",
+      "đi ngủ",
+      "ngủ trưa",
+      "ngủ say"
+     ],
+     "a": 0,
+     "e": "bangun = dậy."
+    },
+    {
+     "id": "u06-x02",
+     "t": "mcq",
+     "q": "\"makan siang\" nghĩa là",
+     "opts": [
+      "ăn trưa",
+      "ăn sáng",
+      "ăn tối",
+      "ăn vặt"
+     ],
+     "a": 0,
+     "e": "siang = trưa."
+    },
+    {
+     "id": "u06-x03",
+     "t": "mcq",
+     "q": "Từ nào chỉ tần suất cao nhất?",
+     "opts": [
+      "selalu",
+      "sering",
+      "jarang",
+      "kadang-kadang"
+     ],
+     "a": 0,
+     "e": "selalu = luôn luôn."
+    },
+    {
+     "id": "u06-x04",
+     "t": "mcq",
+     "q": "\"tidak pernah\" nghĩa là",
+     "opts": [
+      "không bao giờ",
+      "thỉnh thoảng",
+      "hiếm khi",
+      "luôn luôn"
+     ],
+     "a": 0,
+     "e": "pernah = từng."
+    },
+    {
+     "id": "u06-x05",
+     "t": "mcq",
+     "q": "\"Dia sudah bangun.\" nghĩa là",
+     "opts": [
+      "Cô ấy đã dậy.",
+      "Cô ấy sẽ dậy.",
+      "Cô ấy đang dậy.",
+      "Cô ấy chưa dậy."
+     ],
+     "a": 0,
+     "e": "sudah = đã."
+    },
+    {
+     "id": "u06-x06",
+     "t": "mcq",
+     "q": "\"Dia belum bangun.\" nghĩa là",
+     "opts": [
+      "Cô ấy chưa dậy.",
+      "Cô ấy đã dậy.",
+      "Cô ấy sẽ dậy.",
+      "Cô ấy đang ngủ."
+     ],
+     "a": 0,
+     "e": "belum = chưa."
+    },
+    {
+     "id": "u06-x07",
+     "t": "fill",
+     "q": "Dosen ___ menerangkan pelajaran. (đang)",
+     "a": [
+      "sedang"
+     ],
+     "e": "sedang = đang."
+    },
+    {
+     "id": "u06-x08",
+     "t": "fill",
+     "q": "Dia ___ membangunkan Santi. (sẽ)",
+     "a": [
+      "akan"
+     ],
+     "e": "akan = sẽ."
+    },
+    {
+     "id": "u06-x09",
+     "t": "mcq",
+     "q": "Rani đã làm gì trước khi giặt đồ?",
+     "opts": [
+      "Đi chợ",
+      "Ăn tối",
+      "Ngủ trưa",
+      "Đạp xe"
+     ],
+     "a": 0,
+     "e": "Sebelum itu, saya berbelanja di pasar."
+    },
+    {
+     "id": "u06-x10",
+     "t": "mcq",
+     "q": "Dina thường dậy lúc mấy giờ?",
+     "opts": [
+      "5 giờ",
+      "6 giờ",
+      "8 giờ",
+      "4 giờ"
+     ],
+     "a": 0,
+     "e": "pukul 05.00."
+    },
+    {
+     "id": "u06-x11",
+     "t": "mcq",
+     "q": "Dina ăn trưa ở đâu?",
+     "opts": [
+      "Căng tin",
+      "Nhà",
+      "Rạp phim",
+      "Chợ"
+     ],
+     "a": 0,
+     "e": "di kantin."
+    },
+    {
+     "id": "u06-x12",
+     "t": "mcq",
+     "q": "Cuối tuần Dina thường làm gì?",
+     "opts": [
+      "Xem phim ở rạp",
+      "Làm việc",
+      "Đi chợ",
+      "Ngủ cả ngày"
+     ],
+     "a": 0,
+     "e": "menonton film di bioskop."
+    },
+    {
+     "id": "u06-x13",
+     "t": "mcq",
+     "q": "\"setengah dua\" là mấy giờ?",
+     "opts": [
+      "1:30",
+      "2:30",
+      "1:45",
+      "2:00"
+     ],
+     "a": 0,
+     "e": "setengah dua = nửa trước 2 giờ, tức 1:30."
+    },
+    {
+     "id": "u06-x14",
+     "t": "mcq",
+     "q": "\"menonton\" từ gốc là",
+     "opts": [
+      "tonton",
+      "nonton",
+      "monton",
+      "tontonan"
+     ],
+     "a": 0,
+     "e": "tonton → menonton."
+    },
+    {
+     "id": "u06-x15",
+     "t": "fill",
+     "q": "Dina bekerja ___ pukul 08.00. (vào lúc)",
+     "a": [
+      "pada"
+     ],
+     "e": "pada pukul = vào lúc."
+    }
+   ],
+   "culture": {
+    "title": "Làng truyền thống Baduy (Banten)",
+    "vi": "Người Baduy ở huyện Lebak, Banten, nổi tiếng với tri thức bản địa. Đàn ông làm nông, phụ nữ ở nhà dệt vải và nấu ăn. Mọi việc hằng ngày làm không dùng công nghệ, hoàn toàn dựa vào thiên nhiên. Phụ nữ dậy sớm tắm giặt rồi nấu ăn bằng củi và đồ gốm, sau đó dệt vải hoặc đan túi mây ở hiên nhà. Đàn ông ra đồng. Người Baduy Trong mặc đồ trắng hoàn toàn, đôi khi xuống vùng Baduy Ngoài."
+   }
+  },
+  {
+   "id": "u07",
+   "num": 7,
+   "title": "Hobi Kami",
+   "vi_title": "Sở thích của chúng tôi",
+   "goals": [
+    "Nói về sở thích và mức độ yêu thích",
+    "Hỏi đáp về sở thích, vị của món ăn, đồ nấu bếp",
+    "Hiểu hậu tố -an và đọc đoạn văn về sở thích"
+   ],
+   "vocab": [
+    {
+     "id": "u07-v01",
+     "idn": "hobi",
+     "vi": "sở thích"
+    },
+    {
+     "id": "u07-v02",
+     "idn": "memancing",
+     "vi": "câu cá"
+    },
+    {
+     "id": "u07-v03",
+     "idn": "bermain musik",
+     "vi": "chơi nhạc"
+    },
+    {
+     "id": "u07-v04",
+     "idn": "berenang",
+     "vi": "bơi"
+    },
+    {
+     "id": "u07-v05",
+     "idn": "joging",
+     "vi": "chạy bộ"
+    },
+    {
+     "id": "u07-v06",
+     "idn": "bermain badminton",
+     "vi": "chơi cầu lông"
+    },
+    {
+     "id": "u07-v07",
+     "idn": "berolahraga",
+     "vi": "tập thể dục thể thao"
+    },
+    {
+     "id": "u07-v08",
+     "idn": "memasak",
+     "vi": "nấu ăn"
+    },
+    {
+     "id": "u07-v09",
+     "idn": "berkebun",
+     "vi": "làm vườn"
+    },
+    {
+     "id": "u07-v10",
+     "idn": "menari",
+     "vi": "nhảy, múa"
+    },
+    {
+     "id": "u07-v11",
+     "idn": "mengoleksi",
+     "vi": "sưu tầm"
+    },
+    {
+     "id": "u07-v12",
+     "idn": "mencoba resep baru",
+     "vi": "thử công thức mới"
+    },
+    {
+     "id": "u07-v13",
+     "idn": "berjalan-jalan",
+     "vi": "đi dạo"
+    },
+    {
+     "id": "u07-v14",
+     "idn": "waktu luang",
+     "vi": "thời gian rảnh"
+    },
+    {
+     "id": "u07-v15",
+     "idn": "ikut",
+     "vi": "đi cùng, tham gia"
+    },
+    {
+     "id": "u07-v16",
+     "idn": "mengapa",
+     "vi": "tại sao"
+    },
+    {
+     "id": "u07-v17",
+     "idn": "sebenarnya",
+     "vi": "thật ra"
+    },
+    {
+     "id": "u07-v18",
+     "idn": "membosankan",
+     "vi": "chán"
+    },
+    {
+     "id": "u07-v19",
+     "idn": "beda",
+     "vi": "khác"
+    },
+    {
+     "id": "u07-v20",
+     "idn": "suka",
+     "vi": "thích"
+    },
+    {
+     "id": "u07-v21",
+     "idn": "sangat suka",
+     "vi": "rất thích"
+    },
+    {
+     "id": "u07-v22",
+     "idn": "kurang suka",
+     "vi": "không thích lắm"
+    },
+    {
+     "id": "u07-v23",
+     "idn": "tidak suka",
+     "vi": "không thích"
+    },
+    {
+     "id": "u07-v24",
+     "idn": "lebih suka",
+     "vi": "thích hơn"
+    },
+    {
+     "id": "u07-v25",
+     "idn": "senang",
+     "vi": "vui, thích"
+    },
+    {
+     "id": "u07-v26",
+     "idn": "rasa",
+     "vi": "vị"
+    },
+    {
+     "id": "u07-v27",
+     "idn": "manis",
+     "vi": "ngọt"
+    },
+    {
+     "id": "u07-v28",
+     "idn": "asam",
+     "vi": "chua"
+    },
+    {
+     "id": "u07-v29",
+     "idn": "asin",
+     "vi": "mặn"
+    },
+    {
+     "id": "u07-v30",
+     "idn": "pahit",
+     "vi": "đắng"
+    },
+    {
+     "id": "u07-v31",
+     "idn": "pedas",
+     "vi": "cay"
+    },
+    {
+     "id": "u07-v32",
+     "idn": "gurih",
+     "vi": "béo, đậm vị"
+    },
+    {
+     "id": "u07-v33",
+     "idn": "gula",
+     "vi": "đường"
+    },
+    {
+     "id": "u07-v34",
+     "idn": "garam",
+     "vi": "muối"
+    },
+    {
+     "id": "u07-v35",
+     "idn": "jeruk",
+     "vi": "cam, quýt"
+    },
+    {
+     "id": "u07-v36",
+     "idn": "kopi",
+     "vi": "cà phê"
+    },
+    {
+     "id": "u07-v37",
+     "idn": "lombok",
+     "vi": "ớt (cách gọi vùng)",
+     "note": "cabai"
+    },
+    {
+     "id": "u07-v38",
+     "idn": "cabai",
+     "vi": "ớt"
+    },
+    {
+     "id": "u07-v39",
+     "idn": "soto",
+     "vi": "soto (súp)"
+    },
+    {
+     "id": "u07-v40",
+     "idn": "bakso",
+     "vi": "bò viên"
+    },
+    {
+     "id": "u07-v41",
+     "idn": "mi ayam",
+     "vi": "mì gà"
+    },
+    {
+     "id": "u07-v42",
+     "idn": "rendang",
+     "vi": "rendang (thịt bò kho khô)"
+    },
+    {
+     "id": "u07-v43",
+     "idn": "opor ayam",
+     "vi": "gà nấu nước cốt dừa"
+    },
+    {
+     "id": "u07-v44",
+     "idn": "gado-gado",
+     "vi": "gỏi rau với sốt đậu phộng"
+    },
+    {
+     "id": "u07-v45",
+     "idn": "sate",
+     "vi": "thịt xiên nướng"
+    },
+    {
+     "id": "u07-v46",
+     "idn": "ayam goreng",
+     "vi": "gà rán"
+    },
+    {
+     "id": "u07-v47",
+     "idn": "es teh",
+     "vi": "trà đá"
+    },
+    {
+     "id": "u07-v48",
+     "idn": "es jeruk",
+     "vi": "nước cam đá"
+    },
+    {
+     "id": "u07-v49",
+     "idn": "pujasera",
+     "vi": "khu ẩm thực"
+    },
+    {
+     "id": "u07-v50",
+     "idn": "kenyal",
+     "vi": "dai"
+    },
+    {
+     "id": "u07-v51",
+     "idn": "berserat",
+     "vi": "có thớ, nhiều xơ"
+    },
+    {
+     "id": "u07-v52",
+     "idn": "kompor",
+     "vi": "bếp"
+    },
+    {
+     "id": "u07-v53",
+     "idn": "wajan",
+     "vi": "chảo"
+    },
+    {
+     "id": "u07-v54",
+     "idn": "panci",
+     "vi": "nồi"
+    },
+    {
+     "id": "u07-v55",
+     "idn": "spatula",
+     "vi": "sạn, thìa nấu"
+    },
+    {
+     "id": "u07-v56",
+     "idn": "pisau",
+     "vi": "dao"
+    },
+    {
+     "id": "u07-v57",
+     "idn": "talenan",
+     "vi": "thớt"
+    },
+    {
+     "id": "u07-v58",
+     "idn": "masakan",
+     "vi": "món ăn"
+    },
+    {
+     "id": "u07-v59",
+     "idn": "gorengan",
+     "vi": "đồ chiên"
+    },
+    {
+     "id": "u07-v60",
+     "idn": "panggangan",
+     "vi": "đồ nướng"
+    },
+    {
+     "id": "u07-v61",
+     "idn": "lengkap",
+     "vi": "đầy đủ"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 7.1 — Rủ đi câu",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Raden",
+       "idn": "Ajeng, besok kamu mau ikut?",
+       "vi": "Ajeng, ngày mai bạn có đi cùng không?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Ke mana?",
+       "vi": "Đi đâu?"
+      },
+      {
+       "who": "Raden",
+       "idn": "Aku, Maria, dan Doni akan pergi memancing.",
+       "vi": "Mình, Maria và Doni sẽ đi câu cá."
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Sebenarnya, aku kurang suka memancing.",
+       "vi": "Thật ra mình không thích câu cá lắm."
+      },
+      {
+       "who": "Raden",
+       "idn": "Oh, ya? Mengapa?",
+       "vi": "Vậy à? Tại sao?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Memancing itu membosankan.",
+       "vi": "Câu cá chán lắm."
+      },
+      {
+       "who": "Raden",
+       "idn": "Lalu, apa hobimu?",
+       "vi": "Vậy sở thích của bạn là gì?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Hobiku bermain musik.",
+       "vi": "Sở thích của mình là chơi nhạc."
+      },
+      {
+       "who": "Raden",
+       "idn": "Ha ha ha, hobi kita memang beda, ya?",
+       "vi": "Ha ha ha, sở thích của mình khác nhau thật nhỉ?"
+      },
+      {
+       "who": "Ajeng",
+       "idn": "Iya, benar!",
+       "vi": "Ừ, đúng vậy!"
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/271BIPA_1_UMUM_AUDIO_7.1.mp3"
+    },
+    {
+     "title": "Audio 7.2 — Yoyo đi chợ",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Hai, nama saya Yoyo. Saya koki. Saya hobi berbelanja ke pasar.",
+       "vi": "Chào, tên tôi là Yoyo. Tôi là đầu bếp. Tôi thích đi chợ."
+      },
+      {
+       "idn": "Di pasar ada gula, jeruk, garam, kopi, dan lombok.",
+       "vi": "Ở chợ có đường, cam, muối, cà phê và ớt."
+      },
+      {
+       "idn": "Gula rasanya manis. Jeruk rasanya asam.",
+       "vi": "Đường vị ngọt. Cam vị chua."
+      },
+      {
+       "idn": "Garam rasanya asin. Kopi rasanya pahit. Lombok rasanya pedas.",
+       "vi": "Muối vị mặn. Cà phê vị đắng. Ớt vị cay."
+      },
+      {
+       "idn": "Di pujasera ada soto, bakso, mi ayam, rendang, opor ayam, gado-gado, satai, dan ayam goreng.",
+       "vi": "Ở khu ẩm thực có soto, bò viên, mì gà, rendang, gà nấu cốt dừa, gỏi gado-gado, sate và gà rán."
+      },
+      {
+       "idn": "Teksturnya kenyal dan berserat.",
+       "vi": "Kết cấu dai và có thớ."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/460BIPA_1_UMUM_AUDIO_7.2.mp3"
+    },
+    {
+     "title": "Audio 7.3 — Cuối tuần của Sarah",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Saya sangat suka berenang. Saya biasanya berenang di akhir pekan.",
+       "vi": "Tôi rất thích bơi. Cuối tuần tôi thường đi bơi."
+      },
+      {
+       "idn": "Saya kurang suka joging.",
+       "vi": "Tôi không thích chạy bộ lắm."
+      },
+      {
+       "idn": "Saya suka bermain badminton.",
+       "vi": "Tôi thích chơi cầu lông."
+      },
+      {
+       "idn": "Saya tidak suka tidur atau diam di rumah pada akhir pekan.",
+       "vi": "Cuối tuần tôi không thích ngủ hay ở lì trong nhà."
+      },
+      {
+       "idn": "Saya juga sangat suka memasak di akhir pekan.",
+       "vi": "Tôi cũng rất thích nấu ăn vào cuối tuần."
+      },
+      {
+       "idn": "Namun, saya lebih suka berolahraga dan memasak.",
+       "vi": "Tuy nhiên, tôi thích thể thao và nấu ăn hơn."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/155BIPA_1_UMUM_AUDIO_7.3.mp3"
+    },
+    {
+     "title": "Teks 7 — Hobi của Septi",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Hobi saya memasak. Saya sangat suka memasak aneka hidangan.",
+       "vi": "Sở thích của tôi là nấu ăn. Tôi rất thích nấu nhiều món."
+      },
+      {
+       "idn": "Masakan kesukaan saya adalah rendang.",
+       "vi": "Món tôi thích nhất là rendang."
+      },
+      {
+       "idn": "Saya juga suka memasak gorengan dan panggangan.",
+       "vi": "Tôi cũng thích nấu đồ chiên và đồ nướng."
+      },
+      {
+       "idn": "Selain hobi memasak, saya juga hobi mengoleksi peralatan masak.",
+       "vi": "Ngoài nấu ăn, tôi còn thích sưu tầm dụng cụ nấu ăn."
+      },
+      {
+       "idn": "Saya punya kompor, wajan, dan panci.",
+       "vi": "Tôi có bếp, chảo và nồi."
+      },
+      {
+       "idn": "Saya juga punya spatula, pisau, dan talenan.",
+       "vi": "Tôi cũng có sạn, dao và thớt."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Mức độ yêu thích",
+     "body": "Từ mạnh đến yếu: **sangat suka** (rất thích), **suka** (thích), **kurang suka** (không thích lắm), **tidak suka** (không thích). Đứng trước động từ hoặc danh từ.",
+     "examples": [
+      {
+       "idn": "Saya sangat suka berenang.",
+       "vi": "Tôi rất thích bơi."
+      },
+      {
+       "idn": "Saya suka bermain badminton.",
+       "vi": "Tôi thích chơi cầu lông."
+      },
+      {
+       "idn": "Saya kurang suka joging.",
+       "vi": "Tôi không thích chạy bộ lắm."
+      },
+      {
+       "idn": "Saya tidak suka tidur.",
+       "vi": "Tôi không thích ngủ."
+      }
+     ]
+    },
+    {
+     "title": "Hỏi và nói về sở thích",
+     "body": "Mẫu hỏi: **Apa hobimu?** hoặc **Hobimu apa?**. Trả lời: **Hobi saya + động từ**. Với người thứ ba dùng **-nya**.",
+     "examples": [
+      {
+       "idn": "Apa hobimu? → Hobiku bermain musik.",
+       "vi": "Sở thích của bạn là gì? → Sở thích của tôi là chơi nhạc."
+      },
+      {
+       "idn": "Apa hobinya? → Hobinya berkebun.",
+       "vi": "Sở thích của anh ấy là gì? → Sở thích của anh ấy là làm vườn."
+      },
+      {
+       "idn": "Apa yang kamu lakukan pada waktu luang?",
+       "vi": "Bạn làm gì khi rảnh?"
+      }
+     ]
+    },
+    {
+     "title": "Hậu tố -an: kết quả của hành động",
+     "body": "Hậu tố **-an** tạo danh từ chỉ **kết quả** của hành động meng-.",
+     "examples": [
+      {
+       "idn": "masak → masakan",
+       "vi": "nấu → món ăn"
+      },
+      {
+       "idn": "panggang → panggangan",
+       "vi": "nướng → đồ nướng"
+      },
+      {
+       "idn": "goreng → gorengan",
+       "vi": "chiên → đồ chiên"
+      }
+     ]
+    },
+    {
+     "title": "Nói vị",
+     "body": "Mẫu: **[Món] + rasanya + [vị]**.",
+     "examples": [
+      {
+       "idn": "Gula rasanya manis.",
+       "vi": "Đường vị ngọt."
+      },
+      {
+       "idn": "Garam rasanya asin.",
+       "vi": "Muối vị mặn."
+      },
+      {
+       "idn": "Lombok rasanya pedas.",
+       "vi": "Ớt vị cay."
+      },
+      {
+       "idn": "Kopi rasanya pahit.",
+       "vi": "Cà phê vị đắng."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u07-x01",
+     "t": "mcq",
+     "q": "\"sangat suka\" nghĩa là",
+     "opts": [
+      "rất thích",
+      "hơi thích",
+      "không thích",
+      "thích hơn"
+     ],
+     "a": 0,
+     "e": "sangat = rất."
+    },
+    {
+     "id": "u07-x02",
+     "t": "mcq",
+     "q": "\"kurang suka\" nghĩa là",
+     "opts": [
+      "không thích lắm",
+      "rất thích",
+      "thích",
+      "ghét"
+     ],
+     "a": 0,
+     "e": "kurang = ít, thiếu."
+    },
+    {
+     "id": "u07-x03",
+     "t": "mcq",
+     "q": "\"Hobi saya berenang.\" nghĩa là",
+     "opts": [
+      "Sở thích của tôi là bơi.",
+      "Tôi đã bơi.",
+      "Tôi không biết bơi.",
+      "Tôi bán đồ bơi."
+     ],
+     "a": 0,
+     "e": "hobi = sở thích."
+    },
+    {
+     "id": "u07-x04",
+     "t": "mcq",
+     "q": "\"membosankan\" nghĩa là",
+     "opts": [
+      "chán",
+      "thú vị",
+      "mệt",
+      "khó"
+     ],
+     "a": 0,
+     "e": "bosan = chán."
+    },
+    {
+     "id": "u07-x05",
+     "t": "mcq",
+     "q": "Ajeng không thích",
+     "opts": [
+      "câu cá",
+      "chơi nhạc",
+      "nấu ăn",
+      "bơi"
+     ],
+     "a": 0,
+     "e": "kurang suka memancing."
+    },
+    {
+     "id": "u07-x06",
+     "t": "mcq",
+     "q": "Hobi của Ajeng là",
+     "opts": [
+      "chơi nhạc",
+      "câu cá",
+      "đọc sách",
+      "bơi"
+     ],
+     "a": 0,
+     "e": "Hobiku bermain musik."
+    },
+    {
+     "id": "u07-x07",
+     "t": "mcq",
+     "q": "Gula rasanya",
+     "opts": [
+      "ngọt",
+      "mặn",
+      "chua",
+      "đắng"
+     ],
+     "a": 0,
+     "e": "manis = ngọt."
+    },
+    {
+     "id": "u07-x08",
+     "t": "mcq",
+     "q": "Garam rasanya",
+     "opts": [
+      "mặn",
+      "ngọt",
+      "chua",
+      "cay"
+     ],
+     "a": 0,
+     "e": "asin = mặn."
+    },
+    {
+     "id": "u07-x09",
+     "t": "mcq",
+     "q": "Lombok (ớt) rasanya",
+     "opts": [
+      "cay",
+      "đắng",
+      "ngọt",
+      "chua"
+     ],
+     "a": 0,
+     "e": "pedas = cay."
+    },
+    {
+     "id": "u07-x10",
+     "t": "mcq",
+     "q": "Kopi rasanya",
+     "opts": [
+      "đắng",
+      "cay",
+      "ngọt",
+      "chua"
+     ],
+     "a": 0,
+     "e": "pahit = đắng."
+    },
+    {
+     "id": "u07-x11",
+     "t": "fill",
+     "q": "Es jeruk rasanya ___ (chua)",
+     "a": [
+      "asam",
+      "masam"
+     ],
+     "e": "asam hoặc masam đều chỉ vị chua."
+    },
+    {
+     "id": "u07-x12",
+     "t": "mcq",
+     "q": "\"kompor\" là",
+     "opts": [
+      "bếp",
+      "chảo",
+      "nồi",
+      "dao"
+     ],
+     "a": 0,
+     "e": "kompor = bếp."
+    },
+    {
+     "id": "u07-x13",
+     "t": "mcq",
+     "q": "\"wajan\" là",
+     "opts": [
+      "chảo",
+      "nồi",
+      "thớt",
+      "bếp"
+     ],
+     "a": 0,
+     "e": "wajan = chảo."
+    },
+    {
+     "id": "u07-x14",
+     "t": "mcq",
+     "q": "\"masakan\" nghĩa là",
+     "opts": [
+      "món ăn",
+      "nấu ăn",
+      "đầu bếp",
+      "bếp"
+     ],
+     "a": 0,
+     "e": "masak + -an = kết quả của nấu ăn."
+    },
+    {
+     "id": "u07-x15",
+     "t": "mcq",
+     "q": "Món Septi thích nhất là",
+     "opts": [
+      "rendang",
+      "soto",
+      "bakso",
+      "sate"
+     ],
+     "a": 0,
+     "e": "Masakan kesukaan saya adalah rendang."
+    },
+    {
+     "id": "u07-x16",
+     "t": "mcq",
+     "q": "Sarah thích nhất vào cuối tuần",
+     "opts": [
+      "bơi",
+      "ngủ",
+      "chạy bộ",
+      "xem phim"
+     ],
+     "a": 0,
+     "e": "sangat suka berenang."
+    }
+   ],
+   "culture": {
+    "title": "Bambu gila: trò chơi truyền thống ở Maluku",
+    "vi": "Ngày xưa người Indonesia thích tụ tập chơi cùng nhau. Ở Maluku có trò chơi truyền thống độc đáo mang màu sắc huyền bí tên là **bambu gila** (baramasuwel). Người chơi chỉ ôm và giữ cây tre. Cây tre tự nhảy lên theo ý của pawang (thầy cúng). Pawang đốt nhang, rồi khói được “đưa” vào thân tre, tre tự chuyển động. Người chơi phải ôm giữ tre, pawang liên tục niệm thần chú *Hei baramasuwel!*."
+   }
+  },
+  {
+   "id": "u08",
+   "num": 8,
+   "title": "Sifat-Sifat Temanku",
+   "vi_title": "Tính cách của bạn tôi",
+   "goals": [
+    "Hiểu và nói về tính cách con người",
+    "Phân biệt bukan và tidak (phủ định)",
+    "Hiểu các nghĩa của ada, và đọc mô tả tính cách"
+   ],
+   "vocab": [
+    {
+     "id": "u08-v01",
+     "idn": "sifat",
+     "vi": "tính cách"
+    },
+    {
+     "id": "u08-v02",
+     "idn": "teman",
+     "vi": "bạn"
+    },
+    {
+     "id": "u08-v03",
+     "idn": "teman baru",
+     "vi": "bạn mới"
+    },
+    {
+     "id": "u08-v04",
+     "idn": "baik",
+     "vi": "tốt"
+    },
+    {
+     "id": "u08-v05",
+     "idn": "baik hati",
+     "vi": "tốt bụng"
+    },
+    {
+     "id": "u08-v06",
+     "idn": "ramah",
+     "vi": "thân thiện"
+    },
+    {
+     "id": "u08-v07",
+     "idn": "suka menolong",
+     "vi": "hay giúp đỡ"
+    },
+    {
+     "id": "u08-v08",
+     "idn": "menolong",
+     "vi": "giúp đỡ"
+    },
+    {
+     "id": "u08-v09",
+     "idn": "membantu",
+     "vi": "giúp"
+    },
+    {
+     "id": "u08-v10",
+     "idn": "cerewet",
+     "vi": "hay lải nhải, nhiều chuyện"
+    },
+    {
+     "id": "u08-v11",
+     "idn": "perfeksionis",
+     "vi": "cầu toàn"
+    },
+    {
+     "id": "u08-v12",
+     "idn": "pendiam",
+     "vi": "ít nói, trầm lặng"
+    },
+    {
+     "id": "u08-v13",
+     "idn": "menyendiri",
+     "vi": "ở một mình"
+    },
+    {
+     "id": "u08-v14",
+     "idn": "periang",
+     "vi": "vui vẻ"
+    },
+    {
+     "id": "u08-v15",
+     "idn": "ceria",
+     "vi": "vui tươi"
+    },
+    {
+     "id": "u08-v16",
+     "idn": "sabar",
+     "vi": "kiên nhẫn"
+    },
+    {
+     "id": "u08-v17",
+     "idn": "pemarah",
+     "vi": "hay nổi giận"
+    },
+    {
+     "id": "u08-v18",
+     "idn": "marah",
+     "vi": "giận"
+    },
+    {
+     "id": "u08-v19",
+     "idn": "pemaaf",
+     "vi": "hay tha thứ"
+    },
+    {
+     "id": "u08-v20",
+     "idn": "pemalu",
+     "vi": "nhút nhát, hay xấu hổ"
+    },
+    {
+     "id": "u08-v21",
+     "idn": "pelit",
+     "vi": "keo kiệt"
+    },
+    {
+     "id": "u08-v22",
+     "idn": "hemat",
+     "vi": "tiết kiệm"
+    },
+    {
+     "id": "u08-v23",
+     "idn": "jujur",
+     "vi": "trung thực"
+    },
+    {
+     "id": "u08-v24",
+     "idn": "mandiri",
+     "vi": "tự lập"
+    },
+    {
+     "id": "u08-v25",
+     "idn": "teratur",
+     "vi": "ngăn nắp, có trật tự"
+    },
+    {
+     "id": "u08-v26",
+     "idn": "rapi",
+     "vi": "gọn gàng"
+    },
+    {
+     "id": "u08-v27",
+     "idn": "serius",
+     "vi": "nghiêm túc"
+    },
+    {
+     "id": "u08-v28",
+     "idn": "rajin",
+     "vi": "chăm chỉ"
+    },
+    {
+     "id": "u08-v29",
+     "idn": "tekun",
+     "vi": "kiên trì, cần mẫn"
+    },
+    {
+     "id": "u08-v30",
+     "idn": "tegas",
+     "vi": "quyết đoán, dứt khoát"
+    },
+    {
+     "id": "u08-v31",
+     "idn": "cekatan",
+     "vi": "nhanh nhẹn"
+    },
+    {
+     "id": "u08-v32",
+     "idn": "cerdas",
+     "vi": "thông minh"
+    },
+    {
+     "id": "u08-v33",
+     "idn": "pintar",
+     "vi": "giỏi, thông minh"
+    },
+    {
+     "id": "u08-v34",
+     "idn": "malas",
+     "vi": "lười"
+    },
+    {
+     "id": "u08-v35",
+     "idn": "pemalas",
+     "vi": "người lười"
+    },
+    {
+     "id": "u08-v36",
+     "idn": "perhatian",
+     "vi": "chu đáo, quan tâm"
+    },
+    {
+     "id": "u08-v37",
+     "idn": "lucu",
+     "vi": "hài hước, buồn cười"
+    },
+    {
+     "id": "u08-v38",
+     "idn": "tenang",
+     "vi": "điềm tĩnh"
+    },
+    {
+     "id": "u08-v39",
+     "idn": "penyayang",
+     "vi": "giàu lòng thương"
+    },
+    {
+     "id": "u08-v40",
+     "idn": "sempurna",
+     "vi": "hoàn hảo"
+    },
+    {
+     "id": "u08-v41",
+     "idn": "tepat waktu",
+     "vi": "đúng giờ"
+    },
+    {
+     "id": "u08-v42",
+     "idn": "sendiri",
+     "vi": "một mình, tự mình"
+    },
+    {
+     "id": "u08-v43",
+     "idn": "bukan",
+     "vi": "không phải",
+     "note": "phủ định danh từ"
+    },
+    {
+     "id": "u08-v44",
+     "idn": "tidak",
+     "vi": "không",
+     "note": "phủ định tính từ, động từ"
+    },
+    {
+     "id": "u08-v45",
+     "idn": "adalah",
+     "vi": "là"
+    },
+    {
+     "id": "u08-v46",
+     "idn": "tetapi",
+     "vi": "nhưng"
+    },
+    {
+     "id": "u08-v47",
+     "idn": "namun",
+     "vi": "tuy nhiên"
+    },
+    {
+     "id": "u08-v48",
+     "idn": "agak",
+     "vi": "hơi"
+    },
+    {
+     "id": "u08-v49",
+     "idn": "sangat",
+     "vi": "rất"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 8.1 — Sarah, bạn mới của Fitria",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Saya punya teman baru. Namanya Sarah. Sarah berasal dari Inggris.",
+       "vi": "Tôi có một người bạn mới. Tên là Sarah. Sarah đến từ Anh."
+      },
+      {
+       "idn": "Dia baik, ramah, dan suka menolong.",
+       "vi": "Cô ấy tốt, thân thiện và hay giúp đỡ."
+      },
+      {
+       "idn": "Dia selalu menyapa kami.",
+       "vi": "Cô ấy luôn chào chúng tôi."
+      },
+      {
+       "idn": "Namun, Sarah agak cerewet.",
+       "vi": "Tuy nhiên, Sarah hơi nhiều chuyện."
+      },
+      {
+       "idn": "Di pesta ulang tahunnya Sarah menelepon semua orang agar datang tepat waktu.",
+       "vi": "Ở tiệc sinh nhật của mình, Sarah gọi cho mọi người để đến đúng giờ."
+      },
+      {
+       "idn": "Dia juga perfeksionis.",
+       "vi": "Cô ấy cũng cầu toàn."
+      },
+      {
+       "idn": "Dia ingin acaranya sempurna dan tidak ada yang salah.",
+       "vi": "Cô ấy muốn buổi tiệc hoàn hảo và không có gì sai."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/530BIPA_1_UMUM_AUDIO_8.1.mp3"
+    },
+    {
+     "title": "Audio 8.2 — Beni và Toni",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Beni adalah temanku. Dia sangat pendiam.",
+       "vi": "Beni là bạn của tôi. Anh ấy rất trầm lặng."
+      },
+      {
+       "idn": "Dia suka menyendiri di kantor.",
+       "vi": "Anh ấy thích ở một mình trong văn phòng."
+      },
+      {
+       "idn": "Dia jarang menyapa orang lain.",
+       "vi": "Anh ấy hiếm khi chào người khác."
+      },
+      {
+       "idn": "Dia punya teman dekat. Namanya Toni.",
+       "vi": "Anh ấy có một người bạn thân tên Toni."
+      },
+      {
+       "idn": "Toni berbeda dengan Beni. Toni sangat periang.",
+       "vi": "Toni khác với Beni. Toni rất vui vẻ."
+      },
+      {
+       "idn": "Toni selalu ramah kepada siapa pun.",
+       "vi": "Toni luôn thân thiện với bất kỳ ai."
+      },
+      {
+       "idn": "Toni sangat sabar menghadapi Beni.",
+       "vi": "Toni rất kiên nhẫn đối với Beni."
+      },
+      {
+       "idn": "Namun, Toni agak pemarah.",
+       "vi": "Tuy nhiên, Toni hơi hay nổi giận."
+      },
+      {
+       "idn": "Dia akan marah melihat orang malas.",
+       "vi": "Anh ấy sẽ tức giận khi thấy người lười."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/552BIPA_1_UMUM_AUDIO_8.2.mp3"
+    },
+    {
+     "title": "Teks 8.1 — Sifat Fauzi",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Fauzi adalah orang yang teratur.",
+       "vi": "Fauzi là người ngăn nắp."
+      },
+      {
+       "idn": "Dia tidak pintar, tetapi tekun.",
+       "vi": "Anh ấy không giỏi, nhưng cần mẫn."
+      },
+      {
+       "idn": "Dia bukan pemalas.",
+       "vi": "Anh ấy không phải người lười."
+      },
+      {
+       "idn": "Dia juga rajin merapikan lemari pakaiannya.",
+       "vi": "Anh ấy còn chăm sắp xếp tủ quần áo."
+      },
+      {
+       "idn": "Dia tidak tidur jika tugas belum selesai.",
+       "vi": "Anh ấy không ngủ nếu chưa làm xong việc."
+      },
+      {
+       "idn": "Rekan kantornya senang berteman dengan Fauzi.",
+       "vi": "Đồng nghiệp thích làm bạn với Fauzi."
+      }
+     ]
+    },
+    {
+     "title": "Teks 8.2 — Bạn bè ở văn phòng của Yoyo",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Hai, nama saya Yoyo. Saya sedang berada di kantor.",
+       "vi": "Chào, tên tôi là Yoyo. Tôi đang ở văn phòng."
+      },
+      {
+       "idn": "Datil baik hati dan tenang.",
+       "vi": "Datil tốt bụng và điềm tĩnh."
+      },
+      {
+       "idn": "Doni rajin dan cekatan.",
+       "vi": "Doni chăm chỉ và nhanh nhẹn."
+      },
+      {
+       "idn": "Didik pendiam, tetapi ramah.",
+       "vi": "Didik trầm lặng nhưng thân thiện."
+      },
+      {
+       "idn": "Fadil periang dan lucu.",
+       "vi": "Fadil vui vẻ và hài hước."
+      },
+      {
+       "idn": "Laras cerdas dan perfeksionis. Ayu sabar dan pintar.",
+       "vi": "Laras thông minh và cầu toàn. Ayu kiên nhẫn và giỏi."
+      },
+      {
+       "idn": "Putri perhatian dan cekatan. Roslia tekun dan tegas.",
+       "vi": "Putri chu đáo và nhanh nhẹn. Roslia cần mẫn và quyết đoán."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "bukan và tidak: hai cách phủ định",
+     "body": "**Tidak** đứng trước **tính từ** hoặc **động từ**. **Bukan** đứng trước **danh từ**.",
+     "examples": [
+      {
+       "idn": "Dia tidak pintar.",
+       "vi": "Anh ấy không giỏi. (tidak + tính từ)"
+      },
+      {
+       "idn": "Dia bukan pemalas.",
+       "vi": "Anh ấy không phải người lười. (bukan + danh từ)"
+      },
+      {
+       "idn": "Dia tidak tidur.",
+       "vi": "Anh ấy không ngủ. (tidak + động từ)"
+      },
+      {
+       "idn": "Sarah bukan guru BIPA.",
+       "vi": "Sarah không phải giáo viên BIPA."
+      }
+     ]
+    },
+    {
+     "title": "adalah: là",
+     "body": "**Adalah** nối chủ ngữ với danh từ hoặc đặc điểm, nghĩa là *là*. Dùng nhiều trong câu viết.",
+     "examples": [
+      {
+       "idn": "Fauzi adalah orang yang teratur.",
+       "vi": "Fauzi là người ngăn nắp."
+      },
+      {
+       "idn": "Beni adalah temanku.",
+       "vi": "Beni là bạn của tôi."
+      }
+     ]
+    },
+    {
+     "title": "ada có ba nghĩa",
+     "body": "**Ada** có thể là *có mặt, có ở đó*, *sẵn có*, hoặc *có* theo nghĩa sở hữu.",
+     "examples": [
+      {
+       "idn": "Di kantor ada Datil, Doni, Didik.",
+       "vi": "Ở văn phòng có Datil, Doni, Didik. (có mặt)"
+      },
+      {
+       "idn": "Yoyo tidak ada uang.",
+       "vi": "Yoyo không có tiền. (sở hữu)"
+      }
+     ]
+    },
+    {
+     "title": "tetapi và namun: nhưng",
+     "body": "Cả hai đều là *nhưng*. **Namun** thường đứng đầu câu, **tetapi** nối hai vế câu.",
+     "examples": [
+      {
+       "idn": "Dia tidak pintar, tetapi tekun.",
+       "vi": "Anh ấy không giỏi nhưng cần mẫn."
+      },
+      {
+       "idn": "Namun, Sarah agak cerewet.",
+       "vi": "Tuy nhiên, Sarah hơi nhiều chuyện."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u08-x01",
+     "t": "mcq",
+     "q": "\"ramah\" nghĩa là",
+     "opts": [
+      "thân thiện",
+      "nhút nhát",
+      "keo kiệt",
+      "lười"
+     ],
+     "a": 0,
+     "e": "ramah = thân thiện."
+    },
+    {
+     "id": "u08-x02",
+     "t": "mcq",
+     "q": "\"pendiam\" nghĩa là",
+     "opts": [
+      "ít nói",
+      "vui vẻ",
+      "hay giận",
+      "lười"
+     ],
+     "a": 0,
+     "e": "pendiam = trầm lặng."
+    },
+    {
+     "id": "u08-x03",
+     "t": "mcq",
+     "q": "\"periang\" nghĩa là",
+     "opts": [
+      "vui vẻ",
+      "trầm lặng",
+      "hay giận",
+      "nhút nhát"
+     ],
+     "a": 0,
+     "e": "periang = vui vẻ."
+    },
+    {
+     "id": "u08-x04",
+     "t": "mcq",
+     "q": "\"pemarah\" nghĩa là",
+     "opts": [
+      "hay nổi giận",
+      "hay tha thứ",
+      "hay giúp",
+      "hay cười"
+     ],
+     "a": 0,
+     "e": "marah = giận."
+    },
+    {
+     "id": "u08-x05",
+     "t": "mcq",
+     "q": "\"pemalu\" nghĩa là",
+     "opts": [
+      "nhút nhát",
+      "lười",
+      "keo kiệt",
+      "chu đáo"
+     ],
+     "a": 0,
+     "e": "malu = xấu hổ."
+    },
+    {
+     "id": "u08-x06",
+     "t": "mcq",
+     "q": "\"pelit\" nghĩa là",
+     "opts": [
+      "keo kiệt",
+      "tiết kiệm",
+      "tốt bụng",
+      "trung thực"
+     ],
+     "a": 0,
+     "e": "pelit = keo kiệt."
+    },
+    {
+     "id": "u08-x07",
+     "t": "mcq",
+     "q": "\"hemat\" nghĩa là",
+     "opts": [
+      "tiết kiệm",
+      "keo kiệt",
+      "giàu",
+      "lười"
+     ],
+     "a": 0,
+     "e": "hemat = tiết kiệm."
+    },
+    {
+     "id": "u08-x08",
+     "t": "fill",
+     "q": "Dia ___ pintar. (không giỏi)",
+     "a": [
+      "tidak"
+     ],
+     "e": "tidak + tính từ."
+    },
+    {
+     "id": "u08-x09",
+     "t": "fill",
+     "q": "Dia ___ pemalas. (không phải người lười)",
+     "a": [
+      "bukan"
+     ],
+     "e": "bukan + danh từ."
+    },
+    {
+     "id": "u08-x10",
+     "t": "mcq",
+     "q": "Sarah đến từ đâu?",
+     "opts": [
+      "Anh",
+      "Indonesia",
+      "Mỹ",
+      "Úc"
+     ],
+     "a": 0,
+     "e": "Sarah berasal dari Inggris."
+    },
+    {
+     "id": "u08-x11",
+     "t": "mcq",
+     "q": "Beni là người",
+     "opts": [
+      "trầm lặng",
+      "vui vẻ",
+      "hay nổi giận",
+      "hay giúp đỡ"
+     ],
+     "a": 0,
+     "e": "Dia sangat pendiam."
+    },
+    {
+     "id": "u08-x12",
+     "t": "mcq",
+     "q": "Toni là người",
+     "opts": [
+      "vui vẻ",
+      "trầm lặng",
+      "nhút nhát",
+      "lười"
+     ],
+     "a": 0,
+     "e": "Toni sangat periang."
+    },
+    {
+     "id": "u08-x13",
+     "t": "mcq",
+     "q": "\"Dia tidak pintar, tetapi tekun.\" nghĩa là",
+     "opts": [
+      "Không giỏi nhưng cần mẫn",
+      "Giỏi và cần mẫn",
+      "Giỏi nhưng lười",
+      "Không giỏi và lười"
+     ],
+     "a": 0,
+     "e": "tetapi = nhưng."
+    },
+    {
+     "id": "u08-x14",
+     "t": "mcq",
+     "q": "\"Yoyo tidak ada uang.\" nghĩa là",
+     "opts": [
+      "Yoyo không có tiền.",
+      "Yoyo không ở đây.",
+      "Yoyo không đến.",
+      "Yoyo không thích tiền."
+     ],
+     "a": 0,
+     "e": "ada = có (sở hữu)."
+    },
+    {
+     "id": "u08-x15",
+     "t": "mcq",
+     "q": "\"adalah\" nghĩa là",
+     "opts": [
+      "là",
+      "có",
+      "ở",
+      "không"
+     ],
+     "a": 0,
+     "e": "adalah = là."
+    }
+   ],
+   "culture": {
+    "title": "Chào hỏi bằng hôn mũi ở Kupang",
+    "vi": "Mỗi nơi trên thế giới có cách chào khác nhau: ở Tây Tạng người ta lè lưỡi, ở châu Âu thường áp má. Ở Nusa Tenggara Timur (NTT), đặc biệt là người Sabu, có cách chào độc đáo là **cium hidung** (hôn mũi). Đây là cách thể hiện tình cảm, truyền thống từ xưa và vẫn còn đến nay. Một số nước cũng có tục này như Alaska, Ả Rập Xê Út và New Zealand."
+   }
+  },
+  {
+   "id": "u09",
+   "num": 9,
+   "title": "Arah, Letak, dan Lokasi",
+   "vi_title": "Phương hướng, vị trí, địa điểm",
+   "goals": [
+    "Nhận biết từ về phương hướng, vị trí, môi trường xung quanh",
+    "Hỏi và chỉ đường, nói vị trí đồ vật",
+    "Đọc bản đồ, mô tả phòng, lớp học"
+   ],
+   "vocab": [
+    {
+     "id": "u09-v01",
+     "idn": "di mana",
+     "vi": "ở đâu"
+    },
+    {
+     "id": "u09-v02",
+     "idn": "di sebelah mana",
+     "vi": "ở phía nào"
+    },
+    {
+     "id": "u09-v03",
+     "idn": "letak",
+     "vi": "vị trí"
+    },
+    {
+     "id": "u09-v04",
+     "idn": "lokasi",
+     "vi": "địa điểm"
+    },
+    {
+     "id": "u09-v05",
+     "idn": "arah",
+     "vi": "hướng"
+    },
+    {
+     "id": "u09-v06",
+     "idn": "di dalam",
+     "vi": "ở trong"
+    },
+    {
+     "id": "u09-v07",
+     "idn": "di luar",
+     "vi": "ở ngoài"
+    },
+    {
+     "id": "u09-v08",
+     "idn": "di atas",
+     "vi": "ở trên"
+    },
+    {
+     "id": "u09-v09",
+     "idn": "di bawah",
+     "vi": "ở dưới"
+    },
+    {
+     "id": "u09-v10",
+     "idn": "di depan",
+     "vi": "ở trước"
+    },
+    {
+     "id": "u09-v11",
+     "idn": "di belakang",
+     "vi": "ở sau"
+    },
+    {
+     "id": "u09-v12",
+     "idn": "di samping",
+     "vi": "bên cạnh"
+    },
+    {
+     "id": "u09-v13",
+     "idn": "di sebelah",
+     "vi": "bên cạnh, phía"
+    },
+    {
+     "id": "u09-v14",
+     "idn": "di sebelah kiri",
+     "vi": "bên trái"
+    },
+    {
+     "id": "u09-v15",
+     "idn": "di sebelah kanan",
+     "vi": "bên phải"
+    },
+    {
+     "id": "u09-v16",
+     "idn": "di dekat",
+     "vi": "gần"
+    },
+    {
+     "id": "u09-v17",
+     "idn": "di antara",
+     "vi": "ở giữa (hai vật)"
+    },
+    {
+     "id": "u09-v18",
+     "idn": "di tengah",
+     "vi": "ở giữa, ở chính giữa"
+    },
+    {
+     "id": "u09-v19",
+     "idn": "di seberang",
+     "vi": "đối diện, bên kia"
+    },
+    {
+     "id": "u09-v20",
+     "idn": "di pojok",
+     "vi": "ở góc"
+    },
+    {
+     "id": "u09-v21",
+     "idn": "di sekitar",
+     "vi": "xung quanh"
+    },
+    {
+     "id": "u09-v22",
+     "idn": "berhadapan",
+     "vi": "đối mặt"
+    },
+    {
+     "id": "u09-v23",
+     "idn": "utara",
+     "vi": "bắc"
+    },
+    {
+     "id": "u09-v24",
+     "idn": "selatan",
+     "vi": "nam"
+    },
+    {
+     "id": "u09-v25",
+     "idn": "timur",
+     "vi": "đông"
+    },
+    {
+     "id": "u09-v26",
+     "idn": "barat",
+     "vi": "tây"
+    },
+    {
+     "id": "u09-v27",
+     "idn": "belok kiri",
+     "vi": "rẽ trái"
+    },
+    {
+     "id": "u09-v28",
+     "idn": "belok kanan",
+     "vi": "rẽ phải"
+    },
+    {
+     "id": "u09-v29",
+     "idn": "lurus",
+     "vi": "thẳng"
+    },
+    {
+     "id": "u09-v30",
+     "idn": "terus",
+     "vi": "tiếp tục"
+    },
+    {
+     "id": "u09-v31",
+     "idn": "ikuti jalan ini",
+     "vi": "đi theo con đường này"
+    },
+    {
+     "id": "u09-v32",
+     "idn": "pertigaan",
+     "vi": "ngã ba"
+    },
+    {
+     "id": "u09-v33",
+     "idn": "perempatan",
+     "vi": "ngã tư"
+    },
+    {
+     "id": "u09-v34",
+     "idn": "bundaran",
+     "vi": "bùng binh"
+    },
+    {
+     "id": "u09-v35",
+     "idn": "simpang tiga",
+     "vi": "ngã ba"
+    },
+    {
+     "id": "u09-v36",
+     "idn": "ujung jalan",
+     "vi": "cuối đường"
+    },
+    {
+     "id": "u09-v37",
+     "idn": "jalan",
+     "vi": "đường"
+    },
+    {
+     "id": "u09-v38",
+     "idn": "gang",
+     "vi": "ngõ"
+    },
+    {
+     "id": "u09-v39",
+     "idn": "sawah",
+     "vi": "ruộng lúa"
+    },
+    {
+     "id": "u09-v40",
+     "idn": "kamar tidur",
+     "vi": "phòng ngủ"
+    },
+    {
+     "id": "u09-v41",
+     "idn": "pintu",
+     "vi": "cửa"
+    },
+    {
+     "id": "u09-v42",
+     "idn": "lampu",
+     "vi": "đèn"
+    },
+    {
+     "id": "u09-v43",
+     "idn": "tempat tidur",
+     "vi": "giường"
+    },
+    {
+     "id": "u09-v44",
+     "idn": "kasur",
+     "vi": "nệm"
+    },
+    {
+     "id": "u09-v45",
+     "idn": "lemari",
+     "vi": "tủ"
+    },
+    {
+     "id": "u09-v46",
+     "idn": "karpet",
+     "vi": "thảm"
+    },
+    {
+     "id": "u09-v47",
+     "idn": "meja",
+     "vi": "bàn"
+    },
+    {
+     "id": "u09-v48",
+     "idn": "kursi",
+     "vi": "ghế"
+    },
+    {
+     "id": "u09-v49",
+     "idn": "sofa",
+     "vi": "ghế sofa"
+    },
+    {
+     "id": "u09-v50",
+     "idn": "radio",
+     "vi": "radio"
+    },
+    {
+     "id": "u09-v51",
+     "idn": "televisi",
+     "vi": "ti vi"
+    },
+    {
+     "id": "u09-v52",
+     "idn": "AC",
+     "vi": "máy lạnh, điều hòa"
+    },
+    {
+     "id": "u09-v53",
+     "idn": "papan tulis",
+     "vi": "bảng viết"
+    },
+    {
+     "id": "u09-v54",
+     "idn": "spidol",
+     "vi": "bút lông"
+    },
+    {
+     "id": "u09-v55",
+     "idn": "penghapus",
+     "vi": "cục xóa, giẻ lau bảng"
+    },
+    {
+     "id": "u09-v56",
+     "idn": "peta",
+     "vi": "bản đồ"
+    },
+    {
+     "id": "u09-v57",
+     "idn": "jam dinding",
+     "vi": "đồng hồ treo tường"
+    },
+    {
+     "id": "u09-v58",
+     "idn": "mal",
+     "vi": "trung tâm thương mại"
+    },
+    {
+     "id": "u09-v59",
+     "idn": "masjid",
+     "vi": "nhà thờ Hồi giáo"
+    },
+    {
+     "id": "u09-v60",
+     "idn": "toilet umum",
+     "vi": "nhà vệ sinh công cộng"
+    },
+    {
+     "id": "u09-v61",
+     "idn": "kantin",
+     "vi": "căng tin"
+    },
+    {
+     "id": "u09-v62",
+     "idn": "koperasi",
+     "vi": "hợp tác xã, cửa hàng của trường"
+    },
+    {
+     "id": "u09-v63",
+     "idn": "pompa bensin",
+     "vi": "cây xăng"
+    },
+    {
+     "id": "u09-v64",
+     "idn": "restoran",
+     "vi": "nhà hàng"
+    },
+    {
+     "id": "u09-v65",
+     "idn": "toko kelontong",
+     "vi": "cửa hàng tạp hóa"
+    },
+    {
+     "id": "u09-v66",
+     "idn": "saya mau tanya",
+     "vi": "tôi muốn hỏi"
+    },
+    {
+     "id": "u09-v67",
+     "idn": "maaf, bisa tolong ulangi?",
+     "vi": "xin lỗi, bạn nhắc lại được không?"
+    },
+    {
+     "id": "u09-v68",
+     "idn": "tolong",
+     "vi": "làm ơn"
+    },
+    {
+     "id": "u09-v69",
+     "idn": "mari",
+     "vi": "xin mời; nào, ta đi"
+    },
+    {
+     "id": "u09-v70",
+     "idn": "antar",
+     "vi": "đưa đi"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 9.1 — Phòng ngủ của Santi",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Ini gambar kamar tidur saya.",
+       "vi": "Đây là hình phòng ngủ của tôi."
+      },
+      {
+       "idn": "Di kamar saya ada banyak benda.",
+       "vi": "Trong phòng tôi có nhiều đồ."
+      },
+      {
+       "idn": "Di samping pintu kamar ada lampu.",
+       "vi": "Bên cạnh cửa phòng có đèn."
+      },
+      {
+       "idn": "Di dekat lampu ada televisi.",
+       "vi": "Gần đèn có ti vi."
+      },
+      {
+       "idn": "Di seberang televisi ada tempat tidur.",
+       "vi": "Đối diện ti vi là giường."
+      },
+      {
+       "idn": "Tempat tidur saya berada di tengah kamar.",
+       "vi": "Giường của tôi ở giữa phòng."
+      },
+      {
+       "idn": "Karpet ada di antara kasur dan televisi.",
+       "vi": "Thảm ở giữa nệm và ti vi."
+      },
+      {
+       "idn": "Lemari ada di pojok kamar.",
+       "vi": "Tủ ở góc phòng."
+      },
+      {
+       "idn": "Di dalam lemari ada baju saya.",
+       "vi": "Trong tủ có quần áo của tôi."
+      },
+      {
+       "idn": "Radio ada di atas meja kecil.",
+       "vi": "Radio ở trên chiếc bàn nhỏ."
+      },
+      {
+       "idn": "Ada sofa kecil di bawah AC.",
+       "vi": "Có chiếc sofa nhỏ dưới máy lạnh."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/519BIPA_1_UMUM_AUDIO_9.1.mp3"
+    },
+    {
+     "title": "Dialog — Hỏi đường trong khuôn viên trường",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Sondang",
+       "idn": "Permisi, Mbak, saya mau tanya.",
+       "vi": "Xin lỗi chị, em muốn hỏi."
+      },
+      {
+       "who": "Rara",
+       "idn": "Ya, ada yang bisa saya bantu?",
+       "vi": "Vâng, tôi giúp gì được em?"
+      },
+      {
+       "who": "Sondang",
+       "idn": "Kantin ada di mana, ya?",
+       "vi": "Căng tin ở đâu vậy ạ?"
+      },
+      {
+       "who": "Rara",
+       "idn": "Kantin ada di sebelah utara masjid, Mbak.",
+       "vi": "Căng tin ở phía bắc nhà thờ Hồi giáo."
+      },
+      {
+       "who": "Sondang",
+       "idn": "Masjidnya di mana?",
+       "vi": "Còn nhà thờ ở đâu?"
+      },
+      {
+       "who": "Rara",
+       "idn": "Ikuti jalan ini sampai pertigaan. Setelah itu belok kanan. Masjid ada di sebelah kiri jalan, seberang koperasi.",
+       "vi": "Đi theo đường này đến ngã ba. Sau đó rẽ phải. Nhà thờ ở bên trái đường, đối diện cửa hàng hợp tác xã."
+      },
+      {
+       "who": "Sondang",
+       "idn": "Oh, ya, terima kasih, Mbak!",
+       "vi": "À vâng, cảm ơn chị!"
+      },
+      {
+       "who": "Rara",
+       "idn": "Sama-sama.",
+       "vi": "Không có gì."
+      },
+      {
+       "who": "Sondang",
+       "idn": "Oh, ya, kalau toilet umum di mana, ya?",
+       "vi": "À, còn nhà vệ sinh công cộng ở đâu ạ?"
+      },
+      {
+       "who": "Rara",
+       "idn": "Toilet umum ada di sebelah kiri koperasi.",
+       "vi": "Nhà vệ sinh ở bên trái cửa hàng hợp tác xã."
+      },
+      {
+       "who": "Sondang",
+       "idn": "Maaf, bisa tolong ulangi?",
+       "vi": "Xin lỗi, chị nhắc lại giúp được không?"
+      },
+      {
+       "who": "Rara",
+       "idn": "Mari, saya antar saja.",
+       "vi": "Để tôi đưa em đi luôn nhé."
+      },
+      {
+       "who": "Sondang",
+       "idn": "Baik, terima kasih, Mbak.",
+       "vi": "Vâng, cảm ơn chị."
+      }
+     ]
+    },
+    {
+     "title": "Audio 9.2 — Đi đến đám cưới",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Teman saya, Wina, menikah hari Sabtu lalu.",
+       "vi": "Bạn tôi, Wina, kết hôn vào thứ Bảy tuần trước."
+      },
+      {
+       "idn": "Saya berangkat dari Gerung.",
+       "vi": "Tôi xuất phát từ Gerung."
+      },
+      {
+       "idn": "Dari Gerung saya ke Barat sampai bertemu pertigaan.",
+       "vi": "Từ Gerung tôi đi về hướng Tây đến ngã ba."
+      },
+      {
+       "idn": "Di ujung pertigaan ada Balai Desa Sekotong.",
+       "vi": "Cuối ngã ba có Hội trường làng Sekotong."
+      },
+      {
+       "idn": "Dari Balai Desa Sekotong, saya ke arah Selatan.",
+       "vi": "Từ đó, tôi đi về hướng Nam."
+      },
+      {
+       "idn": "Saya melewati SD Sekotong II di kanan jalan.",
+       "vi": "Tôi đi qua trường tiểu học Sekotong II ở bên phải đường."
+      },
+      {
+       "idn": "Saya belok kanan masuk ke gang yang ada di antara SD Sekotong II dan sawah.",
+       "vi": "Tôi rẽ phải vào ngõ nằm giữa trường và ruộng lúa."
+      },
+      {
+       "idn": "Di pertigaan kedua saya belok kanan.",
+       "vi": "Ở ngã ba thứ hai tôi rẽ phải."
+      },
+      {
+       "idn": "Gedung pernikahan tepat berada di ujung jalan, menghadap ke Selatan.",
+       "vi": "Nhà hàng tiệc cưới nằm ngay cuối đường, quay mặt về hướng Nam."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/9BIPA_1_UMUM_AUDIO_9.2.mp3"
+    },
+    {
+     "title": "Teks 9.2 — Lớp học của Sari",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Hai, nama saya Sari. Hari ini saya masuk kelas baru.",
+       "vi": "Chào, tôi là Sari. Hôm nay tôi vào lớp mới."
+      },
+      {
+       "idn": "Ada papan tulis besar di dalam kelas.",
+       "vi": "Trong lớp có một cái bảng lớn."
+      },
+      {
+       "idn": "Spidol dan penghapus ada di bawah papan tulis.",
+       "vi": "Bút lông và giẻ lau ở dưới bảng."
+      },
+      {
+       "idn": "Di sebelah kiri papan tulis ada lemari.",
+       "vi": "Bên trái bảng có tủ."
+      },
+      {
+       "idn": "Di dalam lemari ada banyak buku.",
+       "vi": "Trong tủ có nhiều sách."
+      },
+      {
+       "idn": "Meja dan kursi Bu Sinta ada di depan lemari.",
+       "vi": "Bàn ghế cô Sinta ở trước tủ."
+      },
+      {
+       "idn": "Di seberang meja Bu Sinta ada meja dan kursi saya.",
+       "vi": "Đối diện bàn cô Sinta là bàn ghế của tôi."
+      },
+      {
+       "idn": "Pintu ada di sisi kanan ruang kelas.",
+       "vi": "Cửa ở bên phải lớp học."
+      },
+      {
+       "idn": "Peta ada di antara gambar pahlawan dan jam dinding.",
+       "vi": "Bản đồ ở giữa tranh anh hùng và đồng hồ treo tường."
+      },
+      {
+       "idn": "Siswa di sebelahku bernama Anton.",
+       "vi": "Bạn ngồi cạnh tôi tên là Anton."
+      },
+      {
+       "idn": "Di belakang Anton ada Novi dan Putri.",
+       "vi": "Phía sau Anton có Novi và Putri."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Giới từ vị trí",
+     "body": "**di atas** (trên), **di bawah** (dưới), **di depan** (trước), **di belakang** (sau), **di samping** (bên cạnh), **di dalam** (trong), **di seberang** (đối diện), **di antara** (giữa hai vật), **di tengah** (ở giữa), **di dekat** (gần), **di sebelah kiri/kanan** (bên trái/phải).",
+     "examples": [
+      {
+       "idn": "Radio ada di atas meja kecil.",
+       "vi": "Radio ở trên bàn nhỏ."
+      },
+      {
+       "idn": "Karpet ada di antara kasur dan televisi.",
+       "vi": "Thảm ở giữa nệm và ti vi."
+      },
+      {
+       "idn": "Lampu ada di samping pintu.",
+       "vi": "Đèn ở bên cạnh cửa."
+      }
+     ]
+    },
+    {
+     "title": "Hỏi vị trí",
+     "body": "Dùng **di mana** hoặc **di sebelah mana**. Có bốn cách đặt câu hỏi tương đương.",
+     "examples": [
+      {
+       "idn": "Di mana letak kantin?",
+       "vi": "Căng tin ở đâu?"
+      },
+      {
+       "idn": "Kantin ada di mana?",
+       "vi": "Căng tin ở đâu?"
+      },
+      {
+       "idn": "Kantin letaknya di mana?",
+       "vi": "Vị trí căng tin ở đâu?"
+      },
+      {
+       "idn": "Kantin ada di sebelah mana?",
+       "vi": "Căng tin ở phía nào?"
+      }
+     ]
+    },
+    {
+     "title": "di, ke, dari, pada",
+     "body": "**di** chỉ nơi chốn, **ke** chỉ nơi đến, **dari** chỉ nơi xuất phát, **pada** chỉ thời điểm hoặc vị trí (nghĩa gần như *di*).",
+     "examples": [
+      {
+       "idn": "Kami berjalan-jalan ke beberapa tempat di Lampung.",
+       "vi": "Chúng tôi đi dạo đến vài nơi ở Lampung."
+      },
+      {
+       "idn": "Kami memulai perjalanan dari pompa bensin.",
+       "vi": "Chúng tôi bắt đầu chuyến đi từ cây xăng."
+      },
+      {
+       "idn": "Pada akhir tahun lalu saya berkunjung ke Lampung.",
+       "vi": "Cuối năm ngoái tôi đến thăm Lampung."
+      }
+     ]
+    },
+    {
+     "title": "Chỉ đường",
+     "body": "Các mẫu thường dùng: **ikuti jalan ini** (đi theo đường này), **sampai pertigaan** (đến ngã ba), **belok kanan/kiri** (rẽ phải/trái), **lurus terus** (đi thẳng), **di ujung jalan** (cuối đường).",
+     "examples": [
+      {
+       "idn": "Ikuti jalan ini sampai pertigaan.",
+       "vi": "Đi theo đường này đến ngã ba."
+      },
+      {
+       "idn": "Setelah itu belok kanan.",
+       "vi": "Sau đó rẽ phải."
+      },
+      {
+       "idn": "Maaf, bisa tolong ulangi?",
+       "vi": "Xin lỗi, bạn nhắc lại được không?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u09-x01",
+     "t": "mcq",
+     "q": "\"di atas\" nghĩa là",
+     "opts": [
+      "ở trên",
+      "ở dưới",
+      "ở trước",
+      "ở sau"
+     ],
+     "a": 0,
+     "e": "atas = trên."
+    },
+    {
+     "id": "u09-x02",
+     "t": "mcq",
+     "q": "\"di bawah\" nghĩa là",
+     "opts": [
+      "ở dưới",
+      "ở trên",
+      "ở giữa",
+      "bên cạnh"
+     ],
+     "a": 0,
+     "e": "bawah = dưới."
+    },
+    {
+     "id": "u09-x03",
+     "t": "mcq",
+     "q": "\"di seberang\" nghĩa là",
+     "opts": [
+      "đối diện",
+      "bên cạnh",
+      "ở sau",
+      "ở trong"
+     ],
+     "a": 0,
+     "e": "seberang = bên kia."
+    },
+    {
+     "id": "u09-x04",
+     "t": "mcq",
+     "q": "\"di antara\" dùng khi",
+     "opts": [
+      "ở giữa hai vật",
+      "ở trên",
+      "ở xa",
+      "ở góc"
+     ],
+     "a": 0,
+     "e": "antara = giữa."
+    },
+    {
+     "id": "u09-x05",
+     "t": "mcq",
+     "q": "\"belok kanan\" nghĩa là",
+     "opts": [
+      "rẽ phải",
+      "rẽ trái",
+      "đi thẳng",
+      "quay lại"
+     ],
+     "a": 0,
+     "e": "kanan = phải."
+    },
+    {
+     "id": "u09-x06",
+     "t": "mcq",
+     "q": "\"lurus\" nghĩa là",
+     "opts": [
+      "thẳng",
+      "trái",
+      "phải",
+      "vòng"
+     ],
+     "a": 0,
+     "e": "lurus = thẳng."
+    },
+    {
+     "id": "u09-x07",
+     "t": "mcq",
+     "q": "\"utara\" là hướng",
+     "opts": [
+      "bắc",
+      "nam",
+      "đông",
+      "tây"
+     ],
+     "a": 0,
+     "e": "utara = bắc."
+    },
+    {
+     "id": "u09-x08",
+     "t": "mcq",
+     "q": "\"barat\" là hướng",
+     "opts": [
+      "tây",
+      "đông",
+      "nam",
+      "bắc"
+     ],
+     "a": 0,
+     "e": "barat = tây."
+    },
+    {
+     "id": "u09-x09",
+     "t": "fill",
+     "q": "Lemari ada di ___ kamar. (góc)",
+     "a": [
+      "pojok"
+     ],
+     "e": "pojok = góc."
+    },
+    {
+     "id": "u09-x10",
+     "t": "mcq",
+     "q": "Câu hỏi nào hỏi vị trí?",
+     "opts": [
+      "Kantin ada di mana?",
+      "Kapan kantin buka?",
+      "Siapa di kantin?",
+      "Berapa harganya?"
+     ],
+     "a": 0,
+     "e": "di mana = ở đâu."
+    },
+    {
+     "id": "u09-x11",
+     "t": "mcq",
+     "q": "Trong phòng Santi, tủ ở đâu?",
+     "opts": [
+      "Ở góc phòng",
+      "Ở giữa phòng",
+      "Trên bàn",
+      "Dưới sofa"
+     ],
+     "a": 0,
+     "e": "di pojok kamar."
+    },
+    {
+     "id": "u09-x12",
+     "t": "mcq",
+     "q": "Trong phòng Santi, radio ở đâu?",
+     "opts": [
+      "Trên bàn nhỏ",
+      "Trong tủ",
+      "Dưới sofa",
+      "Ở góc"
+     ],
+     "a": 0,
+     "e": "di atas meja kecil."
+    },
+    {
+     "id": "u09-x13",
+     "t": "mcq",
+     "q": "Trong lớp Sari, spidol và penghapus ở đâu?",
+     "opts": [
+      "Dưới bảng",
+      "Trên bảng",
+      "Trong tủ",
+      "Trên bàn"
+     ],
+     "a": 0,
+     "e": "di bawah papan tulis."
+    },
+    {
+     "id": "u09-x14",
+     "t": "mcq",
+     "q": "Căng tin ở đâu?",
+     "opts": [
+      "Phía bắc nhà thờ Hồi giáo",
+      "Phía nam trường",
+      "Cạnh cửa hàng tạp hóa",
+      "Cạnh cây xăng"
+     ],
+     "a": 0,
+     "e": "di sebelah utara masjid."
+    },
+    {
+     "id": "u09-x15",
+     "t": "mcq",
+     "q": "\"Maaf, bisa tolong ulangi?\" nghĩa là",
+     "opts": [
+      "Xin lỗi, nhắc lại được không?",
+      "Xin lỗi, đi đâu?",
+      "Xin lỗi, giá bao nhiêu?",
+      "Xin lỗi, tôi đi đây."
+     ],
+     "a": 0,
+     "e": "ulangi = nhắc lại."
+    },
+    {
+     "id": "u09-x16",
+     "t": "fill",
+     "q": "___ mana letak kantin? (ở)",
+     "a": [
+      "Di"
+     ],
+     "e": "di mana = ở đâu."
+    },
+    {
+     "id": "u09-x17",
+     "t": "mcq",
+     "q": "\"dari\" chỉ",
+     "opts": [
+      "nơi xuất phát",
+      "nơi đến",
+      "thời điểm",
+      "số lượng"
+     ],
+     "a": 0,
+     "e": "dari = từ."
+    }
+   ],
+   "culture": {
+    "title": "MRT Jakarta",
+    "vi": "**Moda raya terpadu (MRT)** là tàu điện chạy ngầm ở Jakarta, kết nối nhiều địa điểm trong thành phố. Hệ thống thân thiện với người khuyết tật nhờ thang cuốn và thang máy, nhân viên luôn sẵn sàng hỗ trợ hành khách. Nếu đến Jakarta, bạn nên thử đi MRT."
+   }
+  },
+  {
+   "id": "u10",
+   "num": 10,
+   "title": "Pengalaman Meli",
+   "vi_title": "Trải nghiệm của Meli",
+   "goals": [
+    "Mô tả ngoại hình người và đặc điểm ngôi nhà",
+    "Dùng tên màu sắc, quần áo, đồ dùng",
+    "Đọc quảng cáo nhà trọ và viết mô tả bằng ber-"
+   ],
+   "vocab": [
+    {
+     "id": "u10-v01",
+     "idn": "ciri-ciri",
+     "vi": "đặc điểm"
+    },
+    {
+     "id": "u10-v02",
+     "idn": "ciri fisik",
+     "vi": "đặc điểm ngoại hình"
+    },
+    {
+     "id": "u10-v03",
+     "idn": "tinggi",
+     "vi": "cao"
+    },
+    {
+     "id": "u10-v04",
+     "idn": "pendek",
+     "vi": "thấp"
+    },
+    {
+     "id": "u10-v05",
+     "idn": "sedang",
+     "vi": "vừa"
+    },
+    {
+     "id": "u10-v06",
+     "idn": "gemuk",
+     "vi": "mập"
+    },
+    {
+     "id": "u10-v07",
+     "idn": "kurus",
+     "vi": "gầy"
+    },
+    {
+     "id": "u10-v08",
+     "idn": "ramping",
+     "vi": "thon thả"
+    },
+    {
+     "id": "u10-v09",
+     "idn": "semampai",
+     "vi": "cao ráo, mảnh mai"
+    },
+    {
+     "id": "u10-v10",
+     "idn": "cantik",
+     "vi": "xinh đẹp"
+    },
+    {
+     "id": "u10-v11",
+     "idn": "mirip",
+     "vi": "giống"
+    },
+    {
+     "id": "u10-v12",
+     "idn": "berbeda",
+     "vi": "khác"
+    },
+    {
+     "id": "u10-v13",
+     "idn": "rambut",
+     "vi": "tóc"
+    },
+    {
+     "id": "u10-v14",
+     "idn": "lurus",
+     "vi": "thẳng"
+    },
+    {
+     "id": "u10-v15",
+     "idn": "ikal",
+     "vi": "xoăn nhẹ"
+    },
+    {
+     "id": "u10-v16",
+     "idn": "keriting",
+     "vi": "xoăn tít"
+    },
+    {
+     "id": "u10-v17",
+     "idn": "botak",
+     "vi": "hói"
+    },
+    {
+     "id": "u10-v18",
+     "idn": "kulit",
+     "vi": "da"
+    },
+    {
+     "id": "u10-v19",
+     "idn": "sawo matang",
+     "vi": "da nâu (da màu quả sawo chín)"
+    },
+    {
+     "id": "u10-v20",
+     "idn": "putih",
+     "vi": "trắng"
+    },
+    {
+     "id": "u10-v21",
+     "idn": "hitam",
+     "vi": "đen"
+    },
+    {
+     "id": "u10-v22",
+     "idn": "cokelat",
+     "vi": "nâu"
+    },
+    {
+     "id": "u10-v23",
+     "idn": "merah",
+     "vi": "đỏ"
+    },
+    {
+     "id": "u10-v24",
+     "idn": "biru",
+     "vi": "xanh dương"
+    },
+    {
+     "id": "u10-v25",
+     "idn": "hijau",
+     "vi": "xanh lá"
+    },
+    {
+     "id": "u10-v26",
+     "idn": "abu-abu",
+     "vi": "xám"
+    },
+    {
+     "id": "u10-v27",
+     "idn": "ungu",
+     "vi": "tím"
+    },
+    {
+     "id": "u10-v28",
+     "idn": "merah muda",
+     "vi": "hồng"
+    },
+    {
+     "id": "u10-v29",
+     "idn": "emas",
+     "vi": "vàng kim"
+    },
+    {
+     "id": "u10-v30",
+     "idn": "warna-warni",
+     "vi": "nhiều màu"
+    },
+    {
+     "id": "u10-v31",
+     "idn": "mata",
+     "vi": "mắt"
+    },
+    {
+     "id": "u10-v32",
+     "idn": "kacamata",
+     "vi": "kính mắt"
+    },
+    {
+     "id": "u10-v33",
+     "idn": "kumis",
+     "vi": "ria mép"
+    },
+    {
+     "id": "u10-v34",
+     "idn": "berambut",
+     "vi": "có tóc, để tóc"
+    },
+    {
+     "id": "u10-v35",
+     "idn": "berkulit",
+     "vi": "có da (màu da)"
+    },
+    {
+     "id": "u10-v36",
+     "idn": "berbadan",
+     "vi": "có thân hình"
+    },
+    {
+     "id": "u10-v37",
+     "idn": "bertubuh",
+     "vi": "có vóc dáng"
+    },
+    {
+     "id": "u10-v38",
+     "idn": "bermata",
+     "vi": "có mắt (màu mắt)"
+    },
+    {
+     "id": "u10-v39",
+     "idn": "berkumis",
+     "vi": "có ria mép"
+    },
+    {
+     "id": "u10-v40",
+     "idn": "sepatu",
+     "vi": "giày"
+    },
+    {
+     "id": "u10-v41",
+     "idn": "sepatu pantofel",
+     "vi": "giày da"
+    },
+    {
+     "id": "u10-v42",
+     "idn": "kaus kaki",
+     "vi": "tất"
+    },
+    {
+     "id": "u10-v43",
+     "idn": "rok",
+     "vi": "váy"
+    },
+    {
+     "id": "u10-v44",
+     "idn": "kemeja",
+     "vi": "áo sơ mi"
+    },
+    {
+     "id": "u10-v45",
+     "idn": "blazer",
+     "vi": "áo vest"
+    },
+    {
+     "id": "u10-v46",
+     "idn": "jaket",
+     "vi": "áo khoác"
+    },
+    {
+     "id": "u10-v47",
+     "idn": "topi",
+     "vi": "mũ"
+    },
+    {
+     "id": "u10-v48",
+     "idn": "syal",
+     "vi": "khăn quàng"
+    },
+    {
+     "id": "u10-v49",
+     "idn": "celana panjang",
+     "vi": "quần dài"
+    },
+    {
+     "id": "u10-v50",
+     "idn": "celana pendek",
+     "vi": "quần ngắn"
+    },
+    {
+     "id": "u10-v51",
+     "idn": "jam tangan",
+     "vi": "đồng hồ đeo tay"
+    },
+    {
+     "id": "u10-v52",
+     "idn": "gelang",
+     "vi": "vòng tay"
+    },
+    {
+     "id": "u10-v53",
+     "idn": "boneka",
+     "vi": "búp bê"
+    },
+    {
+     "id": "u10-v54",
+     "idn": "membawa",
+     "vi": "mang"
+    },
+    {
+     "id": "u10-v55",
+     "idn": "merantau",
+     "vi": "đi làm xa quê"
+    },
+    {
+     "id": "u10-v56",
+     "idn": "rumah",
+     "vi": "nhà"
+    },
+    {
+     "id": "u10-v57",
+     "idn": "genting",
+     "vi": "ngói"
+    },
+    {
+     "id": "u10-v58",
+     "idn": "cat",
+     "vi": "sơn"
+    },
+    {
+     "id": "u10-v59",
+     "idn": "bercat",
+     "vi": "được sơn"
+    },
+    {
+     "id": "u10-v60",
+     "idn": "parkir",
+     "vi": "chỗ đỗ xe"
+    },
+    {
+     "id": "u10-v61",
+     "idn": "taman",
+     "vi": "vườn, công viên"
+    },
+    {
+     "id": "u10-v62",
+     "idn": "kolam ikan",
+     "vi": "hồ cá"
+    },
+    {
+     "id": "u10-v63",
+     "idn": "bunga",
+     "vi": "hoa"
+    },
+    {
+     "id": "u10-v64",
+     "idn": "bangku",
+     "vi": "ghế dài"
+    },
+    {
+     "id": "u10-v65",
+     "idn": "persegi panjang",
+     "vi": "hình chữ nhật"
+    },
+    {
+     "id": "u10-v66",
+     "idn": "bulat",
+     "vi": "tròn"
+    },
+    {
+     "id": "u10-v67",
+     "idn": "ber-AC",
+     "vi": "có máy lạnh"
+    },
+    {
+     "id": "u10-v68",
+     "idn": "indekos",
+     "vi": "nhà trọ, ở trọ"
+    },
+    {
+     "id": "u10-v69",
+     "idn": "sewa",
+     "vi": "thuê"
+    },
+    {
+     "id": "u10-v70",
+     "idn": "deposit",
+     "vi": "tiền đặt cọc"
+    },
+    {
+     "id": "u10-v71",
+     "idn": "hunian",
+     "vi": "chỗ ở"
+    },
+    {
+     "id": "u10-v72",
+     "idn": "kamar mandi",
+     "vi": "phòng tắm"
+    }
+   ],
+   "dialogs": [
+    {
+     "title": "Audio 10.1 — Nhà của Mila",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Rumah Mila sangat bagus.",
+       "vi": "Nhà Mila rất đẹp."
+      },
+      {
+       "idn": "Ukurannya tidak terlalu besar.",
+       "vi": "Kích thước không quá lớn."
+      },
+      {
+       "idn": "Di depan rumah ada tempat parkir mobil.",
+       "vi": "Trước nhà có chỗ đỗ ô tô."
+      },
+      {
+       "idn": "Rumahnya bercat hijau dan putih.",
+       "vi": "Nhà sơn màu xanh lá và trắng."
+      },
+      {
+       "idn": "Genting rumahnya berwarna abu-abu.",
+       "vi": "Mái ngói màu xám."
+      },
+      {
+       "idn": "Rumahnya ber-AC.",
+       "vi": "Nhà có máy lạnh."
+      },
+      {
+       "idn": "Pintunya berwarna cokelat tua.",
+       "vi": "Cửa màu nâu đậm."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/113BIPA_1_UMUM_AUDIO_10.1.mp3"
+    },
+    {
+     "title": "Audio 10.2 — Hành lý của Meli",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Besok saya akan merantau ke Jakarta untuk bekerja.",
+       "vi": "Ngày mai tôi sẽ lên Jakarta làm việc xa nhà."
+      },
+      {
+       "idn": "Saya akan membawa sepatu pantofel hitam, kaus kaki cokelat, rok berwarna hitam, dan kemeja putih.",
+       "vi": "Tôi sẽ mang giày da đen, tất nâu, váy màu đen và áo sơ mi trắng."
+      },
+      {
+       "idn": "Saya juga membawa blazer ungu dan jaket merah.",
+       "vi": "Tôi cũng mang áo vest tím và áo khoác đỏ."
+      },
+      {
+       "idn": "Saya juga membawa jam tangan berwarna biru dan gelang berwarna merah.",
+       "vi": "Tôi cũng mang đồng hồ xanh và vòng tay đỏ."
+      },
+      {
+       "idn": "Saya tidak membawa topi, baju olahraga, celana panjang, dan syal.",
+       "vi": "Tôi không mang mũ, đồ thể thao, quần dài và khăn quàng."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/326BIPA_1_UMUM_AUDIO_10.2.mp3"
+    },
+    {
+     "title": "Audio 10.3 — Gia đình Meli",
+     "kind": "dialog",
+     "lines": [
+      {
+       "who": "Raden",
+       "idn": "Meli, apa kamu mirip ibumu?",
+       "vi": "Meli, bạn có giống mẹ không?"
+      },
+      {
+       "who": "Meli",
+       "idn": "Tidak. Ibuku berbadan ramping, berkulit sawo matang, dan berambut ikal.",
+       "vi": "Không. Mẹ mình thân hình thon, da nâu và tóc xoăn nhẹ."
+      },
+      {
+       "who": "Meli",
+       "idn": "Ibuku bertubuh tinggi dan bermata kecokelatan.",
+       "vi": "Mẹ mình cao và mắt nâu nâu."
+      },
+      {
+       "who": "Raden",
+       "idn": "Bagaimana dengan ayahmu?",
+       "vi": "Còn bố bạn thì sao?"
+      },
+      {
+       "who": "Meli",
+       "idn": "Ayahku berbadan gemuk, berkulit cokelat, berambut hitam lurus, dan memakai kacamata.",
+       "vi": "Bố mình mập, da nâu, tóc đen thẳng và đeo kính."
+      },
+      {
+       "who": "Meli",
+       "idn": "Ayah berkumis tebal. Ia senang menggunakan celana pendek berwarna cokelat.",
+       "vi": "Bố có ria dày. Bố thích mặc quần ngắn màu nâu."
+      },
+      {
+       "who": "Raden",
+       "idn": "Lalu, bagaimana ciri-ciri kakakmu? Apa dia mirip denganmu?",
+       "vi": "Còn chị bạn thì sao? Có giống bạn không?"
+      },
+      {
+       "who": "Meli",
+       "idn": "Kakakku cantik, tinggi, dan semampai. Dia berbeda denganku. Dia berkulit putih.",
+       "vi": "Chị mình xinh, cao và mảnh mai. Chị khác mình. Chị da trắng."
+      }
+     ],
+     "audio": "https://bipa.kemendikdasmen.go.id/filebelajar/569BIPA_1_UMUM_AUDIO_10.3.mp3"
+    },
+    {
+     "title": "Teks 10.2 — Nhà trọ của Meli",
+     "kind": "text",
+     "lines": [
+      {
+       "idn": "Rumah indekos Meli besar dan cantik.",
+       "vi": "Nhà trọ của Meli to và đẹp."
+      },
+      {
+       "idn": "Di sana ada sepuluh kamar tidur.",
+       "vi": "Ở đó có mười phòng ngủ."
+      },
+      {
+       "idn": "Satu kamar tidur berkamar mandi satu.",
+       "vi": "Mỗi phòng ngủ có một phòng tắm."
+      },
+      {
+       "idn": "Rumah indekosnya bercat warna-warni.",
+       "vi": "Nhà trọ sơn nhiều màu."
+      },
+      {
+       "idn": "Rumahnya berbentuk persegi panjang.",
+       "vi": "Nhà có hình chữ nhật."
+      },
+      {
+       "idn": "Di sisi kiri dan kanan rumahnya ada pohon tinggi berdaun hijau.",
+       "vi": "Hai bên nhà có cây cao lá xanh."
+      },
+      {
+       "idn": "Di belakang rumah indekos Meli ada taman. Taman itu ada kolam ikannya.",
+       "vi": "Phía sau nhà trọ có vườn. Vườn có hồ cá."
+      },
+      {
+       "idn": "Di taman juga ada bangku panjang berwarna hitam.",
+       "vi": "Trong vườn còn có ghế dài màu đen."
+      },
+      {
+       "idn": "Di depan bangku ada meja berbentuk bulat dan berwarna cokelat.",
+       "vi": "Trước ghế có cái bàn tròn màu nâu."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "Tiền tố ber- nghĩa là có",
+     "body": "**Ber-** + danh từ nghĩa là *có* thứ đó. Rất hay dùng để tả ngoại hình và đặc điểm.",
+     "examples": [
+      {
+       "idn": "berwarna biru",
+       "vi": "có màu xanh"
+      },
+      {
+       "idn": "berambut ikal",
+       "vi": "có tóc xoăn nhẹ"
+      },
+      {
+       "idn": "berkulit putih",
+       "vi": "có da trắng"
+      },
+      {
+       "idn": "berbadan gemuk",
+       "vi": "thân hình mập"
+      },
+      {
+       "idn": "bermata cokelat",
+       "vi": "mắt nâu"
+      },
+      {
+       "idn": "berkumis tebal",
+       "vi": "có ria dày"
+      },
+      {
+       "idn": "bercat hijau",
+       "vi": "sơn xanh"
+      }
+     ]
+    },
+    {
+     "title": "Mô tả ngoại hình",
+     "body": "Dùng các nhóm đặc điểm: **tinggi badan** (tinggi, sedang, pendek), **postur** (gemuk, sedang, kurus), **rambut** (lurus, ikal, keriting, botak), **kulit**, **mata**. Mẫu: *Ibuku berbadan ramping, berkulit sawo matang, dan berambut ikal.*",
+     "examples": [
+      {
+       "idn": "Ayahku berbadan gemuk dan berambut hitam lurus.",
+       "vi": "Bố tôi mập và có tóc đen thẳng."
+      },
+      {
+       "idn": "Kakakku cantik, tinggi, dan semampai.",
+       "vi": "Chị tôi xinh, cao và mảnh mai."
+      }
+     ]
+    },
+    {
+     "title": "Mô tả nhà",
+     "body": "Mô tả theo trình tự: kích thước, màu sắc, các phòng, tiện ích. Dùng **ber-** + danh từ và các giới từ vị trí đã học ở Unit 9.",
+     "examples": [
+      {
+       "idn": "Rumahnya bercat hijau dan putih.",
+       "vi": "Nhà sơn xanh lá và trắng."
+      },
+      {
+       "idn": "Ukurannya tidak terlalu besar.",
+       "vi": "Kích thước không quá lớn."
+      },
+      {
+       "idn": "Di depan rumah ada tempat parkir.",
+       "vi": "Trước nhà có chỗ đỗ xe."
+      }
+     ]
+    },
+    {
+     "title": "Hỏi về ngôi nhà mơ ước",
+     "body": "Mẫu câu: **Kamu suka rumah seperti apa?** (Bạn thích nhà thế nào?), **Warna apa yang kamu suka?**, **Berapa lantai?**.",
+     "examples": [
+      {
+       "idn": "Kamu suka rumah seperti apa?",
+       "vi": "Bạn thích ngôi nhà như thế nào?"
+      },
+      {
+       "idn": "Aku suka rumah yang besar dan luas.",
+       "vi": "Mình thích nhà lớn và rộng."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "id": "u10-x01",
+     "t": "mcq",
+     "q": "\"tinggi\" nghĩa là",
+     "opts": [
+      "cao",
+      "thấp",
+      "mập",
+      "gầy"
+     ],
+     "a": 0,
+     "e": "tinggi = cao."
+    },
+    {
+     "id": "u10-x02",
+     "t": "mcq",
+     "q": "\"kurus\" nghĩa là",
+     "opts": [
+      "gầy",
+      "mập",
+      "cao",
+      "thấp"
+     ],
+     "a": 0,
+     "e": "kurus = gầy."
+    },
+    {
+     "id": "u10-x03",
+     "t": "mcq",
+     "q": "\"gemuk\" nghĩa là",
+     "opts": [
+      "mập",
+      "gầy",
+      "cao",
+      "thấp"
+     ],
+     "a": 0,
+     "e": "gemuk = mập."
+    },
+    {
+     "id": "u10-x04",
+     "t": "mcq",
+     "q": "\"keriting\" nghĩa là",
+     "opts": [
+      "xoăn tít",
+      "thẳng",
+      "hói",
+      "xoăn nhẹ"
+     ],
+     "a": 0,
+     "e": "keriting = xoăn tít."
+    },
+    {
+     "id": "u10-x05",
+     "t": "mcq",
+     "q": "\"berambut ikal\" nghĩa là",
+     "opts": [
+      "có tóc xoăn nhẹ",
+      "có tóc thẳng",
+      "không có tóc",
+      "tóc ngắn"
+     ],
+     "a": 0,
+     "e": "ber- = có; ikal = xoăn nhẹ."
+    },
+    {
+     "id": "u10-x06",
+     "t": "mcq",
+     "q": "\"berwarna merah\" nghĩa là",
+     "opts": [
+      "có màu đỏ",
+      "có màu xanh",
+      "có màu đen",
+      "không màu"
+     ],
+     "a": 0,
+     "e": "merah = đỏ."
+    },
+    {
+     "id": "u10-x07",
+     "t": "mcq",
+     "q": "\"cokelat\" là màu",
+     "opts": [
+      "nâu",
+      "xám",
+      "tím",
+      "hồng"
+     ],
+     "a": 0,
+     "e": "cokelat = nâu."
+    },
+    {
+     "id": "u10-x08",
+     "t": "mcq",
+     "q": "\"abu-abu\" là màu",
+     "opts": [
+      "xám",
+      "trắng",
+      "đen",
+      "vàng"
+     ],
+     "a": 0,
+     "e": "abu-abu = xám."
+    },
+    {
+     "id": "u10-x09",
+     "t": "mcq",
+     "q": "\"merah muda\" là màu",
+     "opts": [
+      "hồng",
+      "đỏ",
+      "tím",
+      "cam"
+     ],
+     "a": 0,
+     "e": "merah muda = đỏ nhạt, tức hồng."
+    },
+    {
+     "id": "u10-x10",
+     "t": "mcq",
+     "q": "\"kemeja\" là",
+     "opts": [
+      "áo sơ mi",
+      "váy",
+      "mũ",
+      "khăn quàng"
+     ],
+     "a": 0,
+     "e": "kemeja = áo sơ mi."
+    },
+    {
+     "id": "u10-x11",
+     "t": "mcq",
+     "q": "\"rok\" là",
+     "opts": [
+      "váy",
+      "quần",
+      "áo khoác",
+      "giày"
+     ],
+     "a": 0,
+     "e": "rok = váy."
+    },
+    {
+     "id": "u10-x12",
+     "t": "mcq",
+     "q": "\"sepatu\" là",
+     "opts": [
+      "giày",
+      "tất",
+      "mũ",
+      "vòng tay"
+     ],
+     "a": 0,
+     "e": "sepatu = giày."
+    },
+    {
+     "id": "u10-x13",
+     "t": "fill",
+     "q": "Rumahnya ___ hijau dan putih. (sơn)",
+     "a": [
+      "bercat"
+     ],
+     "e": "ber- + cat = sơn màu."
+    },
+    {
+     "id": "u10-x14",
+     "t": "fill",
+     "q": "Ibuku ___ kulit sawo matang. (có da)",
+     "a": [
+      "berkulit"
+     ],
+     "e": "ber- + kulit."
+    },
+    {
+     "id": "u10-x15",
+     "t": "mcq",
+     "q": "Mẹ Meli có dáng người",
+     "opts": [
+      "thon thả",
+      "mập",
+      "thấp",
+      "gầy ốm"
+     ],
+     "a": 0,
+     "e": "berbadan ramping."
+    },
+    {
+     "id": "u10-x16",
+     "t": "mcq",
+     "q": "Bố Meli",
+     "opts": [
+      "mập, đeo kính",
+      "gầy, tóc xoăn",
+      "cao, da trắng",
+      "thấp, ria mỏng"
+     ],
+     "a": 0,
+     "e": "gemuk, berkacamata."
+    },
+    {
+     "id": "u10-x17",
+     "t": "mcq",
+     "q": "Nhà trọ của Meli có bao nhiêu phòng ngủ?",
+     "opts": [
+      "Mười",
+      "Năm",
+      "Ba",
+      "Hai mươi"
+     ],
+     "a": 0,
+     "e": "sepuluh kamar tidur."
+    },
+    {
+     "id": "u10-x18",
+     "t": "mcq",
+     "q": "Nhà trọ của Meli có hình",
+     "opts": [
+      "chữ nhật",
+      "tròn",
+      "vuông",
+      "tam giác"
+     ],
+     "a": 0,
+     "e": "persegi panjang."
+    }
+   ],
+   "culture": {
+    "title": "Người bản địa mắt xanh ở Indonesia",
+    "vi": "Có những cư dân bản địa Indonesia mắt xanh ở Sulawesi Đông Nam, Bắc Maluku và Aceh Jaya. Ở đảo **Siompu** (Sulawesi Đông Nam), thế kỷ 16 người Bồ Đào Nha đến buôn gia vị và kết hôn với quý tộc Wolio, sinh ra con cháu mắt xanh, tóc hơi vàng. Ở **Halmahera Đông**, người Lingon là một dân tộc thiểu số. Ở **Lamno, Aceh Jaya**, con cháu mắt xanh là hậu duệ của lính Bồ Đào Nha bị Vương quốc Daya bắt giữ, không thể về châu Âu nên kết hôn với dân địa phương."
+   }
+  }
+ ]
+}
